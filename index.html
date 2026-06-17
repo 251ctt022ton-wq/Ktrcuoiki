@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Trắc Nghiệm Kinh Tế Chính Trị</title>
+    <title>Trắc Nghiệm Kinh Tế Chính Trị - 25 Câu Ngẫu Nhiên</title>
     <style>
         :root {
             --primary-color: #2c3e50;
@@ -34,7 +34,14 @@
         h1 {
             text-align: center;
             color: var(--primary-color);
+            margin-bottom: 5px;
+        }
+
+        .subtitle {
+            text-align: center;
+            color: #7f8c8d;
             margin-bottom: 30px;
+            font-style: italic;
         }
 
         .loading {
@@ -86,7 +93,6 @@
             transform: scale(1.2);
         }
 
-        /* Thống kê kết quả */
         .result-box {
             display: none;
             background: #d1e7dd;
@@ -99,11 +105,15 @@
             font-weight: bold;
         }
 
+        .btn-group {
+            display: flex;
+            gap: 15px;
+            margin-top: 20px;
+        }
+
         button {
-            display: block;
-            width: 100%;
+            flex: 1;
             padding: 15px;
-            background: var(--secondary-color);
             color: white;
             border: none;
             border-radius: 6px;
@@ -113,11 +123,22 @@
             transition: background 0.2s;
         }
 
-        button:hover {
+        #submit-btn {
+            background: var(--secondary-color);
+        }
+
+        #submit-btn:hover {
             background: #2980b9;
         }
 
-        /* Trạng thái đáp án đúng/sai sau khi nộp bài */
+        #reload-btn {
+            background: #e67e22;
+        }
+
+        #reload-btn:hover {
+            background: #d35400;
+        }
+
         .correct {
             background-color: #d1e7dd !important;
             border-color: #a3cfbb !important;
@@ -135,39 +156,58 @@
 
 <div class="container">
     <h1>Bài Tập Trắc Nghiệm Kinh Tế Chính Trị</h1>
+    <div class="subtitle">(Hệ thống tự động lấy ngẫu nhiên 25 câu hỏi từ ngân hàng đề)</div>
+    
     <div id="result" class="result-box"></div>
-    <div id="quiz-container" class="loading">Đang tải câu hỏi từ hệ thống...</div>
-    <button id="submit-btn" style="display: none;" onclick="chamDiem()">Nộp Bài / Xem Kết Quả</button>
+    <div id="quiz-container" class="loading">Đang trộn đề và tải dữ liệu câu hỏi...</div>
+    
+    <div class="btn-group">
+        <button id="submit-btn" style="display: none;" onclick="chamDiem()">Nộp Bài / Xem Kết Quả</button>
+        <button id="reload-btn" style="display: none;" onclick="window.location.reload()">Đổi Đề Khác</button>
+    </div>
 </div>
 
 <script>
-    let dataQuestions = [];
-    // Đường dẫn trỏ tới file json nằm cùng thư mục trên GitHub
-    const jsonUrl = './200_cau_hoi_kinh_te_chinh_tri.json'; 
+    let activeQuestions = [];
+    // Tên file JSON chứa ngân hàng đề nằm cùng thư mục
+    const jsonUrl = './200_cau_hoi_kinh_te_chin_tri.json'; 
 
-    // Hàm tự động fetch dữ liệu khi mở trang web
+    // Thuật toán đảo vị trí phần tử ngẫu nhiên Fisher-Yates
+    function shuffleArray(array) {
+        for (let i = array.length - 1; i > 0; i--) {
+            const j = Math.floor(Math.random() * (i + 1));
+            [array[i], array[j]] = [array[j], array[i]];
+        }
+        return array;
+    }
+
+    // Tải dữ liệu JSON và trích xuất 25 câu hỏi ngẫu nhiên
     async function loadQuestions() {
         const container = document.getElementById('quiz-container');
         try {
             const response = await fetch(jsonUrl);
-            if (!response.ok) {
-                throw new Error('Không thể tải tệp dữ liệu JSON');
-            }
-            dataQuestions = await response.json();
+            if (!response.ok) throw new Error('Không thể tải tệp dữ liệu JSON');
             
-            // Xóa dòng thông báo Đang tải...
+            const allQuestions = await response.json();
+            
+            // Trộn ngẫu nhiên toàn bộ mảng dữ liệu gốc
+            const shuffled = shuffleArray(allQuestions);
+            
+            // Cắt lấy chuẩn xác 25 câu đầu tiên của mảng sau khi trộn
+            activeQuestions = shuffled.slice(0, 25);
+            
+            // Dọn dẹp dòng chữ loading ban đầu
             container.innerHTML = '';
             
-            // Render từng câu hỏi ra giao diện
-            dataQuestions.forEach((item, index) => {
+            // Đổ dữ liệu 25 câu ra màn hình giao diện
+            activeQuestions.forEach((item, index) => {
                 const quizItem = document.createElement('div');
                 quizItem.className = 'quiz-item';
                 quizItem.id = `question-box-${index}`;
 
-                // Mảng ký tự nhận diện phương án đầu dòng
                 const labelAlpha = ['A', 'B', 'C', 'D'];
-
                 let optionsHtml = '';
+                
                 item.options.forEach((opt, optIdx) => {
                     optionsHtml += `
                         <li class="option-item">
@@ -179,64 +219,65 @@
                     `;
                 });
 
+                // Hiển thị STT từ 1-25 và giữ lại ID gốc ở cạnh để người dùng đối chiếu đáp án nếu cần
                 quizItem.innerHTML = `
-                    <div class="question">Câu ${item.id}: ${item.question}</div>
+                    <div class="question">Câu ${index + 1}: ${item.question} <small style="color:#95a5a6; font-weight:normal;">(Gốc: Câu ${item.id})</small></div>
                     <ul class="options-list">${optionsHtml}</ul>
                 `;
                 container.appendChild(quizItem);
             });
 
-            // Hiện nút nộp bài
+            // Kích hoạt hiển thị các nút thao tác làm bài
             document.getElementById('submit-btn').style.display = 'block';
+            document.getElementById('reload-btn').style.display = 'block';
 
         } catch (error) {
             console.error(error);
-            container.innerHTML = `<div style="color:red; text-align:center;">Lỗi: Không thể nạp danh sách câu hỏi. Hãy chắc chắn tên file JSON của bạn chính xác!</div>`;
+            container.innerHTML = `<div style="color:red; text-align:center;">Lỗi: Không thể lấy dữ liệu câu hỏi. Hãy chắc chắn tên tệp JSON của bạn là chuẩn xác!</div>`;
         }
     }
 
-    // Hàm tính điểm và hiển thị đáp án đúng/sai
+    // Xử lý tính điểm trực tiếp và hiện màu đáp án đúng/sai
     function chamDiem() {
         let score = 0;
-        const total = dataQuestions.length;
+        const total = activeQuestions.length;
 
-        dataQuestions.forEach((item, index) => {
+        activeQuestions.forEach((item, index) => {
             const selectedInput = document.querySelector(`input[name="question-${index}"]:checked`);
             
-            // Tìm vị trí của đáp án đúng trong mảng options
-            // Chuyển ký tự (A, B, C, D) từ 'answer_index' thành chỉ số số (0, 1, 2, 3)
+            // Ánh xạ đáp án chữ cái từ JSON (A, B, C, D) sang chỉ số mảng (0, 1, 2, 3)
             const mapAlpha = {'A': 0, 'B': 1, 'C': 2, 'D': 3};
             const correctIndex = mapAlpha[item.answer_index.toUpperCase().trim()];
 
-            // Reset màu toàn bộ các nhãn của câu này trước khi chấm lại
+            // Reset màu nền các đáp án lựa chọn trước đó
             item.options.forEach((_, optIdx) => {
                 document.getElementById(`label-${index}-${optIdx}`).className = '';
             });
 
-            // Tô màu xanh lá cây đậm cho đáp án đúng chuẩn của hệ thống
+            // Đánh dấu màu xanh cho phương án chuẩn của hệ thống
             document.getElementById(`label-${index}-${correctIndex}`).classList.add('correct');
 
             if (selectedInput) {
                 const userAnswerIndex = parseInt(selectedInput.value);
                 if (userAnswerIndex === correctIndex) {
-                    score++;
+                    score++; // Thêm điểm nếu câu trả lời đúng
                 } else {
-                    // Nếu làm sai, tô màu đỏ nhãn người dùng đã chọn
+                    // Đánh dấu màu đỏ cho lựa chọn bị chọn sai của người dùng
                     document.getElementById(`label-${index}-${userAnswerIndex}`).classList.add('incorrect');
                 }
             }
         });
 
-        // Hiển thị khung kết quả lên đầu trang
+        // Đổ điểm số thống kê ra bảng thông báo kết quả
         const resultBox = document.getElementById('result');
         resultBox.style.display = 'block';
         resultBox.innerHTML = `Kết quả của bạn: ${score} / ${total} câu đúng (${((score/total)*100).toFixed(2)}%)`;
         
-        // Cuộn màn hình mượt mà lên vị trí kết quả quả
+        // Tự động cuộn trang mượt mà lên đầu để xem ngay kết quả điểm số
         window.scrollTo({ top: 0, behavior: 'smooth' });
     }
 
-    // Chạy tải dữ liệu ngay khi tải xong trang cấu trúc DOM
+    // Chạy kích hoạt ứng dụng ngay khi cấu trúc DOM của trang tải thành công
     document.addEventListener('DOMContentLoaded', loadQuestions);
 </script>
 
