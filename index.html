@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hệ Thống Ôn Thi Trắc Nghiệm Kinh Tế Chính Trị</title>
+    <style>
+        body { font-family: Arial, sans-serif; background-color: #f4f7f6; margin: 0; padding: 20px; color: #333; }
+        .container { max-width: 800px; margin: 0 auto; background: white; padding: 30px; border-radius: 8px; box-shadow: 0 4px 15px rgba(0,0,0,0.1); }
+        h1 { text-align: center; color: #2c3e50; margin-bottom: 5px; }
+        .subtitle { text-align: center; color: #7f8c8d; font-size: 14px; margin-bottom: 25px; }
+        .controls { display: flex; justify-content: space-between; align-items: center; margin-bottom: 20px; background: #eef2f3; padding: 15px; border-radius: 6px; }
+        .quiz-info { font-weight: bold; color: #2c3e50; }
+        button { padding: 10px 20px; font-size: 15px; border-radius: 5px; border: none; cursor: pointer; transition: 0.3s; font-weight: bold; }
+        .btn-refresh { background-color: #3498db; color: white; }
+        .btn-refresh:hover { background-color: #2980b9; }
+        .submit-btn { background-color: #2ecc71; width: 100%; margin-top: 20px; padding: 15px; font-size: 18px; color: white; border-radius: 5px; font-weight: bold; }
+        .submit-btn:hover { background-color: #27ae60; }
+        .quiz-item { margin-bottom: 25px; padding-bottom: 15px; border-bottom: 1px solid #eee; }
+        .question { font-weight: bold; font-size: 17px; margin-bottom: 10px; color: #2c3e50; line-height: 1.4; }
+        .options label { display: block; background: #f9f9f9; padding: 12px; margin: 6px 0; border: 1px solid #ddd; border-radius: 4px; cursor: pointer; transition: 0.2s; }
+        .options label:hover { background: #eef7fc; border-color: #3498db; }
+        .options input { margin-right: 10px; transform: scale(1.2); vertical-align: middle; }
+        #result { margin-top: 20px; padding: 20px; border-radius: 5px; text-align: center; font-size: 20px; font-weight: bold; display: none; }
+        .correct-ans { background-color: #d4edda !important; color: #155724; border-color: #c3e6cb !important; font-weight: bold; }
+        .wrong-ans { background-color: #f8d7da !important; color: #721c24; border-color: #f5c6cb !important; }
+        #error-msg { color: red; text-align: center; font-weight: bold; padding: 20px; display: none; line-height: 1.6; }
+    </style>
+</head>
+<body>
+
+<div class="container">
+    <h1>Hệ Thống Ôn Thi Trắc Nghiệm</h1>
+    <div class="subtitle">Ngân Hàng Trọn Bộ 200 Câu Hỏi Kinh Tế Chính Trị</div>
+    
+    <div class="controls">
+        <span id="quiz-info" class="quiz-info">Đang tải câu hỏi...</span>
+        <button class="btn-refresh" onclick="tronVaTaoDe()">Đổi Đề Ngẫu Nhiên</button>
+    </div>
+
+    <div id="error-msg"></div>
+    <div id="quiz-box"></div>
+
+    <button class="submit-btn" onclick="chamDiem()">Nộp Bài & Xem Đáp Án</button>
+    <div id="result"></div>
+</div>
+
+<script>
+    // Hàm tự động tìm tên file JSON bất kể trình duyệt dịch tự động sang tên gì
+    async function timFileJson() {
+        try {
+            const response = await fetch('./');
+            const text = await response.text();
+            
+            // Tìm tất cả các file có đuôi .json trong thư mục gốc
+            const match = text.match(/[a-zA-Z0-9_\-%À-ỹ\s]+\.json/g);
+            if (match && match.length > 0) {
+                // Trả về file đầu tiên tìm thấy
+                return decodeURIComponent(match[0]);
+            }
+        } catch (e) {
+            console.log("Không thể quét thư mục, thử dùng tên mặc định");
+        }
+        return 'tat_ca_cau_hoi.json'; 
+    }
+
+    const SO_CAU_MOI_DE = 20; 
+    let khoCauHoiGoc = [];
+    let deHienTai = [];
+
+    async function taiDuLieu() {
+        const errorMsg = document.getElementById('error-msg');
+        try {
+            // Tự động dò tìm file json của bạn trên repo (kể cả bị dịch thành hình xăm_ca_cau_hoi.json)
+            const targetFile = await timFileJson();
+            console.log("Đang đọc dữ liệu từ file:", targetFile);
+            
+            const response = await fetch(targetFile);
+            if (!response.ok) throw new Error("Không thể đọc được nội dung file dữ liệu.");
+            khoCauHoiGoc = await response.json();
+            tronVaTaoDe();
+        } catch (error) {
+            errorMsg.style.display = 'block';
+            errorMsg.innerHTML = `Lỗi hệ thống: Không tìm thấy hoặc không đọc được file dữ liệu câu hỏi JSON.<br><br>` +
+                                 `<b>Mẹo sửa lỗi:</b> Đảm bảo bạn đã đưa file câu hỏi ra ngoài thư mục gốc (nằm cùng hàng với file index.html này) và file phải có nội dung định dạng dạng JSON chuẩn.`;
+            document.getElementById('quiz-info').innerText = "Tải dữ liệu thất bại";
+        }
+    }
+
+    function tronVaTaoDe() {
+        if (khoCauHoiGoc.length === 0) return;
+        document.getElementById('result').style.display = 'none';
+        const danhSachTron = [...khoCauHoiGoc].sort(() => 0.5 - Math.random());
+        deHienTai = danhSachTron.slice(0, Math.min(SO_CAU_MOI_DE, danhSachTron.length));
+        document.getElementById('quiz-info').innerText = `Đang hiển thị ${deHienTai.length} câu ngẫu nhiên từ kho câu hỏi`;
+        hienThiGiaoDien();
+    }
+
+    function hienThiGiaoDien() {
+        const quizBox = document.getElementById('quiz-box');
+        quizBox.innerHTML = '';
+        deHienTai.forEach((item, index) => {
+            let htmlOptions = '';
+            const labels = ['A', 'B', 'C', 'D'];
+            item.arr.forEach((opt, idx) => {
+                htmlOptions += `
+                    <label id="lbl-${index}-${labels[idx]}">
+                        <input type="radio" name="question-${index}" value="${labels[idx]}">
+                        <b>${labels[idx]}.</b> ${opt}
+                    </label>
+                `;
+            });
+            quizBox.innerHTML += `
+                <div class="quiz-item">
+                    <div class="question">Câu ${index + 1}: ${item.q}</div>
+                    <div class="options">${htmlOptions}</div>
+                </div>
+            `;
+        });
+    }
+
+    function chamDiem() {
+        let diemSo = 0;
+        deHienTai.forEach((item, index) => {
+            const selected = document.querySelector(`input[name="question-${index}"]:checked`);
+            const labelDung = document.getElementById(`lbl-${index}-${item.ans}`);
+            if(labelDung) labelDung.classList.add('correct-ans');
+            if (selected) {
+                if (selected.value === item.ans) {
+                    diemSo++;
+                } else {
+                    const labelSai = document.getElementById(`lbl-${index}-${selected.value}`);
+                    if(labelSai) labelSai.classList.add('wrong-ans');
+                }
+            }
+        });
+        const resultDiv = document.getElementById('result');
+        resultDiv.style.display = 'block';
+        resultDiv.innerText = `Bạn đạt được: ${diemSo} / ${deHienTai.length} câu đúng!`;
+        if (diemSo === deHienTai.length) {
+            resultDiv.style.backgroundColor = '#d4edda'; resultDiv.style.color = '#155724';
+        } else {
+            resultDiv.style.backgroundColor = '#ffeeba'; resultDiv.style.color = '#856404';
+        }
+        window.scrollTo({ top: document.body.scrollHeight, behavior: 'smooth' });
+    }
+    taiDuLieu();
+</script>
+</body>
+</html>
