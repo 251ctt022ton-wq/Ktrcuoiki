@@ -1,0 +1,1452 @@
+[
+    {
+        "id": 1,
+        "question": "Thuật ngữ \"Kinh tế- chính trị\" được sử dụng lần đầu tiên vào năm nào?",
+        "options": [
+            "1610",
+            "1615",
+            "1612",
+            "1618"
+        ],
+        "answer": "1615",
+        "answer_index": "B"
+    },
+    {
+        "id": 2,
+        "question": "Ai là người đầu tiên đưa ra khái niệm \"Kinh tế- chính trị\"?",
+        "options": [
+            "Antoine Montchretien",
+            "Tomas Mun",
+            "Francois Quesney",
+            "William Petty"
+        ],
+        "answer": "Antoine Montchretien",
+        "answer_index": "A"
+    },
+    {
+        "id": 3,
+        "question": "Đối tượng nghiên cứu của kinh tế- chính trị Marx – Lenin là gì?",
+        "options": [
+            "Sản xuất của cải vật chất",
+            "Quan hệ xã hội giữa người với người",
+            "Các quan hệ xã hội của sản xuất và trao đổi",
+            "Quá trình sản xuất, phân phối, trao đổi, tiêu dùng"
+        ],
+        "answer": "Các quan hệ xã hội của sản xuất và trao đổi",
+        "answer_index": "C"
+    },
+    {
+        "id": 4,
+        "question": "Ai là người có công trong việc phát triển kinh tế chính trị Marx – Lenin?",
+        "options": [
+            "Georg Wilhelm Friedrich Hegel",
+            "Friedrich Engels",
+            "Vladimir IlyichLenin",
+            "Francois Quesnay"
+        ],
+        "answer": "Vladimir IlyichLenin",
+        "answer_index": "C"
+    },
+    {
+        "id": 5,
+        "question": "Kinh tế chính trị Marx – Lenin có mấy chức năng cơ bản?",
+        "options": [
+            "3",
+            "5",
+            "4",
+            "6"
+        ],
+        "answer": "4",
+        "answer_index": "C"
+    },
+    {
+        "id": 6,
+        "question": "Kinh tế chính trị Marx – Lenin không có chức năng nào sau đây?",
+        "options": [
+            "Chức năng nhận thức",
+            "Chức năng thực tiễn",
+            "Chức năng phương pháp luận",
+            "Chức năng bản thể luận"
+        ],
+        "answer": "Chức năng bản thể luận",
+        "answer_index": "D"
+    },
+    {
+        "id": 7,
+        "question": "Mục đích chủ yếu của nghiên cứu kinh tế chính trị Marx – Lenin là gì?",
+        "options": [
+            "Thúc đẩy sự giàu có",
+            "Phát hiện ra các quy luật chi phối quan hệ giữa người với người trong sản xuất và trao đổi",
+            "Tạo động lực thúc đẩy sự sáng tạo của con người trong xã hội",
+            "Gop phần thúc đẩy văn minh và sự phát triển toàn diện của xã hội"
+        ],
+        "answer": "Phát hiện ra các quy luật chi phối quan hệ giữa người với người trong sản xuất và trao đổi",
+        "answer_index": "B"
+    },
+    {
+        "id": 8,
+        "question": "Chọn ý đúng về kinh tế chính trị Marx – Lenin?",
+        "options": [
+            "Một trong ba bộ phận cấu thành chủ nghĩa Marx – Lenin",
+            "Một trong ba tiền đề hình thành chủ nghĩa Marx – Lenin",
+            "Một trong ba nguồn gốc của chủ nghĩa Marx – Lenin",
+            "Một trong ba học thuyết quan trọng của chủ nghĩa Marx – Lenin"
+        ],
+        "answer": "Một trong ba bộ phận cấu thành chủ nghĩa Marx – Lenin",
+        "answer_index": "A"
+    },
+    {
+        "id": 9,
+        "question": "Nội dung nào sau đây không thuộc chức năng tư tưởng của kinh tế chính trị Marx - Lenin?",
+        "options": [
+            "Phát hiện bản chất của các hiện tượng và quá trình kinh tế",
+            "Góp phần xây dựng thế giới quan cách mạng của giai cấp công nhân",
+            "Tạo niềm tin vào thắng lợi trong cuộc đấu tranh xoá bỏ áp bức bóc lột",
+            "Là vũ khí tư tưởng của giai cấp công nhân và nhân dân lao động trong công cuộc xây dựng chủ nghĩa xã hội"
+        ],
+        "answer": "Phát hiện bản chất của các hiện tượng và quá trình kinh tế",
+        "answer_index": "A"
+    },
+    {
+        "id": 10,
+        "question": "Nội dung nào sau đây không thuộc chức năng phương pháp luận của kinh tế chính trị Marx – Lenin?",
+        "options": [
+            "Trang bị phương pháp để xem xét thế giới nói chung",
+            "Là nền tảng lý luận cho các khoa học kinh tế ngành",
+            "Là cơ sở lý luận cho các khoa học nằm giáp ranh giữa các tri thức các ngành khác nhau",
+            "Là vũ khí tư tưởng của giai cấp công nhân và nhân dân lao động trong công cuộc xây dựng chủ nghĩa xã hội"
+        ],
+        "answer": "Là vũ khí tư tưởng của giai cấp công nhân và nhân dân lao động trong công cuộc xây dựng chủ nghĩa xã hội",
+        "answer_index": "D"
+    },
+    {
+        "id": 11,
+        "question": "Theo lý luận của Karl Marx về hàng hóa, thuộc tính cơ bản của hàng hóa là gì?",
+        "options": [
+            "Giá trị và giá trị trao đổi",
+            "Giá trị và giá trị sử dụng",
+            "Giá trị trao đổi và giá trị sử dụng",
+            "Giá trị thặng dư và giá cả"
+        ],
+        "answer": "Giá trị và giá trị sử dụng",
+        "answer_index": "B"
+    },
+    {
+        "id": 12,
+        "question": "Theo quan niệm của chủ nghĩa Marx – Lenin, tiền tệ là gì?",
+        "options": [
+            "Thước đo giá trị của hàng hóa",
+            "Phương tiện để lưu thông hàng hóa và để thanh toán",
+            "Hàng hóa đặc biệt đóng vai trò vật ngang giá chung",
+            "Là vàng, bạc"
+        ],
+        "answer": "Hàng hóa đặc biệt đóng vai trò vật ngang giá chung",
+        "answer_index": "C"
+    },
+    {
+        "id": 13,
+        "question": "Trong nền kinh tế thị trường, quy luật giá trị yêu cầu điều gì?",
+        "options": [
+            "Sản xuất và trao đổi hàng hóa phải được tiến hành trên cơ sở của hao phí lao động xã hội cần thiết, lưu thông hàng hóa phải dựa trên nguyên tắc ngang giá",
+            "Phải điều chỉnh sao cho hao phí cá biệt tương xứng với hao phí lao động xã hội",
+            "Điều tiết sản xuất và lưu thông hàng hóa",
+            "Kích thích cải tiến kỹ thuật, hợp lý hóa sản xuất nhằm tăng năng suất lao động"
+        ],
+        "answer": "Sản xuất và trao đổi hàng hóa phải được tiến hành trên cơ sở của hao phí lao động xã hội cần thiết, lưu thông hàng hóa phải dựa trên nguyên tắc ngang giá",
+        "answer_index": "A"
+    },
+    {
+        "id": 14,
+        "question": "Lịch sử phát triển của nền sản xuất xã hội trải qua hai kiểu tổ chức kinh tế nào?",
+        "options": [
+            "Sản xuất tự cung tự cấp và sản xuất giá trị thặng dư",
+            "Sản xuất tự cung tự cấp và sản xuất hàng hóa",
+            "Sản xuất hàng hóa và sản xuất giá trị thặng dư",
+            "Kinh tế tập thể và kinh tế tư nhân"
+        ],
+        "answer": "Sản xuất tự cung tự cấp và sản xuất hàng hóa",
+        "answer_index": "B"
+    },
+    {
+        "id": 15,
+        "question": "Theo quan niệm của chủ nghĩa Marx – Lenin, tiền tệ có mấy chức năng cơ bản?",
+        "options": [
+            "4",
+            "6",
+            "5",
+            "7"
+        ],
+        "answer": "5",
+        "answer_index": "C"
+    },
+    {
+        "id": 16,
+        "question": "Tính hai mặt của lao động sản xuất hàng hóa là gì?",
+        "options": [
+            "Lao động giản đơn và lao động phức tạp",
+            "Lao động trí óc và lao động tay chân",
+            "Lao động cụ thể và lao động trừu tượng",
+            "Lao động cá nhân và lao động tập thể"
+        ],
+        "answer": "Lao động cụ thể và lao động trừu tượng",
+        "answer_index": "C"
+    },
+    {
+        "id": 17,
+        "question": "Theo quan niệm của chủ nghĩa Marx – Lenin, hàng hóa là gì?",
+        "options": [
+            "Sản phẩm của lao động thỏa mãn nhu cầu của con người",
+            "Sản phẩm được bán trên thị trường",
+            "Sản phẩm của lao động có thể thỏa mãn nhu cầu của con người thông qua trao đổi, mua bán",
+            "Sản phẩm được sản xuất ra để đem bán"
+        ],
+        "answer": "Sản phẩm của lao động có thể thỏa mãn nhu cầu của con người thông qua trao đổi, mua bán",
+        "answer_index": "C"
+    },
+    {
+        "id": 18,
+        "question": "Ai là người phát hiện ra tính chất hai mặt của lao động sản xuất hàng hóa?",
+        "options": [
+            "Adam Smith",
+            "Vladimir Ilyich Lenin",
+            "Karl Marx",
+            "Friedrich Engels"
+        ],
+        "answer": "Karl Marx",
+        "answer_index": "C"
+    },
+    {
+        "id": 19,
+        "question": "Hiểu theo nghĩa rộng, thị trường là gì?",
+        "options": [
+            "Là nơi diễn ra hành vi trao đổi mua bán",
+            "Là tổng hòa các mối quan hệ liên quan đến trao đổi, mua bán hàng hóa, dịch vụ trong xã hội",
+            "Là thị trường diễn ra trong toàn quốc",
+            "Là thị trường diễn ra trong phạm vi thế giới"
+        ],
+        "answer": "Là tổng hòa các mối quan hệ liên quan đến trao đổi, mua bán hàng hóa, dịch vụ trong xã hội",
+        "answer_index": "B"
+    },
+    {
+        "id": 20,
+        "question": "Các chủ thể chính tham gia thị trường gồm những những bộ phận nào sau đây?",
+        "options": [
+            "Người bán và người mua",
+            "Nhà nước và lực lượng trung gian mua bán",
+            "Người sản xuất, người tiêu dùng, các chủ thể trung gian trong thị trường và nhà nước",
+            "Các chủ thể trung gian và nhà nước"
+        ],
+        "answer": "Người sản xuất, người tiêu dùng, các chủ thể trung gian trong thị trường và nhà nước",
+        "answer_index": "C"
+    },
+    {
+        "id": 21,
+        "question": "Theo quan điểm của Karl Marx, giá trị thặng dư là gì?",
+        "options": [
+            "Phần giá trị dôi ra ngoài giá trị sử dụng sức lao động, là lao động không công của công nhân",
+            "Phần giá trị dôi ra ngoài giá trị sức lao động, là lao động không công của công nhân",
+            "Phần giá trị dôi ra ngoài giá trị hàng hóa, là lao động không công của công nhân",
+            "Phần giá trị dôi ra ngoài lao động, là lao động không công của công nhân"
+        ],
+        "answer": "Phần giá trị dôi ra ngoài giá trị sức lao động, là lao động không công của công nhân",
+        "answer_index": "B"
+    },
+    {
+        "id": 22,
+        "question": "Công thức lưu thông hàng hóa giản đơn với tiền làm môi giới trong trao đổi là gì?",
+        "options": [
+            "H – T –H",
+            "H – T – H’",
+            "T – H – T’",
+            "T – H – T"
+        ],
+        "answer": "H – T –H",
+        "answer_index": "A"
+    },
+    {
+        "id": 23,
+        "question": "Trong nền sản xuất tư bản chủ nghĩa, mọi tư bản đều vận động theo công thức nào sau đây?",
+        "options": [
+            "H – T –H",
+            "H – T – H’",
+            "T – H – T’",
+            "T – H – T"
+        ],
+        "answer": "T – H – T’",
+        "answer_index": "C"
+    },
+    {
+        "id": 24,
+        "question": "Theo quan điểm của Karl Marx, điều kiện để sức lao động trở thành hàng hóa là gì?",
+        "options": [
+            "Người lao động phải được mua bán; người lao động không có tư liệu sản xuất",
+            "Người lao động phải được tự do; người lao động không có tư liệu sản xuất",
+            "Người lao động phải được tự do; người lao động có tư liệu sản xuất",
+            "Người lao động phải được tự do; người lao động không có tư liệu tiêu dùng"
+        ],
+        "answer": "Người lao động phải được tự do; người lao động không có tư liệu sản xuất",
+        "answer_index": "B"
+    },
+    {
+        "id": 25,
+        "question": "Tư bản bất biến (c) là bộ phận tư bản tồn tại dưới hình thái nào sau đây?",
+        "options": [
+            "Tư liệu sản xuất",
+            "Tư liệu lao động",
+            "Nguyên vật liệu",
+            "Đối tượng lao động"
+        ],
+        "answer": "Tư liệu sản xuất",
+        "answer_index": "A"
+    },
+    {
+        "id": 26,
+        "question": "Tư bản khả biến (v) là bộ phận tư bản tồn tại dưới hình thái nào sau đây?",
+        "options": [
+            "Sức lao động",
+            "Đối tượng lao động",
+            "Sức lao động và nguyên vật liệu",
+            "Công nghệ mới"
+        ],
+        "answer": "Sức lao động",
+        "answer_index": "A"
+    },
+    {
+        "id": 27,
+        "question": "Tư bản cố định và tư bản lưu động thuộc phạm trù tư bản nào sau đây?",
+        "options": [
+            "Tư bản sản xuất",
+            "Tư bản bất biến",
+            "Tư bản tiền tệ ",
+            "Tư bản ứng trước"
+        ],
+        "answer": "Tư bản sản xuất",
+        "answer_index": "A"
+    },
+    {
+        "id": 28,
+        "question": "Phương pháp sản xuất giá trị thặng dư tương đối là gì?",
+        "options": [
+            "Kéo dài ngày lao động, giữ nguyên thời gian lao động tất yếu",
+            "Rút ngắn thời gian lao động tất yếu, kéo dài thời gian lao động thặng dư, giữ nguyên độ dài ngày lao động",
+            "Kéo dài ngày lao động vượt quá thời gian lao động tất yếu",
+            "Tăng cường độ lao động và kéo dài ngày lao động"
+        ],
+        "answer": "Rút ngắn thời gian lao động tất yếu, kéo dài thời gian lao động thặng dư, giữ nguyên độ dài ngày lao động",
+        "answer_index": "B"
+    },
+    {
+        "id": 29,
+        "question": "Phương pháp sản xuất giá trị thặng dư tuyệt đối là gì?",
+        "options": [
+            "Kéo dài ngày lao động vượt quá thời gian lao động tất yếu",
+            "Rút ngắn thời gian lao động tất yếu, giữ nguyên độ dài ngày lao động",
+            "Do tăng năng suất lao động",
+            "Do áp dụng kỹ thuật tiên tiến"
+        ],
+        "answer": "Kéo dài ngày lao động vượt quá thời gian lao động tất yếu",
+        "answer_index": "A"
+    },
+    {
+        "id": 30,
+        "question": "Tiền công trong chủ nghĩa tư bản là gì?",
+        "options": [
+            "Giá cả của hàng hóa sức lao động",
+            "Giá cả lao động của người công nhân làm thuê được thể hiện bằng tiền",
+            "Số tiền mà nhà tư bản đã trả để đổi lấy toàn bộ lao động mà người công nhân đã bỏ ra để tiến hành sản xuất",
+            "Số tiền mà chủ tư bản đã trả công lao động cho người làm thuê"
+        ],
+        "answer": "Giá cả của hàng hóa sức lao động",
+        "answer_index": "A"
+    },
+    {
+        "id": 31,
+        "question": "\"Những thời đại kinh tế khác nhau không phải ở chỗ chúng sản xuất ra cái gì, mà là ở chỗ chúng sản xuất bằng cách nào, với những tư liệu lao động nào\". Câu nói trên là của ai?",
+        "options": [
+            "Adam Smith",
+            "Karl Marx",
+            "David Ricardo",
+            "Friedrich Engels"
+        ],
+        "answer": "Karl Marx",
+        "answer_index": "B"
+    },
+    {
+        "id": 32,
+        "question": "“Tự do cạnh tranh đẻ ra tập trung sản xuất và sự tập trung sản xuất này, khi phát triển đến một mức độ nhất định, lại dẫn đến độc quyền”. Kết luận trên đây là của ai?",
+        "options": [
+            "Karl Marx",
+            "Friedrich Engels",
+            "Karl Marx và Friedrich Engels",
+            "Vladimir Ilyich Lenin"
+        ],
+        "answer": "Vladimir Ilyich Lenin",
+        "answer_index": "D"
+    },
+    {
+        "id": 33,
+        "question": "Nhà kinh điển nào sau đây nghiên cứu sâu về chủ nghĩa tư bản độc quyền?",
+        "options": [
+            "Vladimir Ilyich Lenin",
+            "Friedrich Engels",
+            "Karl Marx",
+            "Karl Marx và Friedrich Engels"
+        ],
+        "answer": "Vladimir Ilyich Lenin",
+        "answer_index": "A"
+    },
+    {
+        "id": 34,
+        "question": "Chủ nghĩa tư bản độc quyền xuất hiện vào khoảng thời gian nào?",
+        "options": [
+            "Cuối thế kỷ XVII đầu thế kỷ XVIII",
+            "Cuối thế kỷ XVIII đầu thế kỷ XIX",
+            "Cuối thế kỷ XIX đầu thế kỷ XX",
+            "Những năm giữa thế kỷ XX"
+        ],
+        "answer": "Cuối thế kỷ XIX đầu thế kỷ XX",
+        "answer_index": "C"
+    },
+    {
+        "id": 35,
+        "question": "Chủ nghĩa tư bản độc quyền là gì?",
+        "options": [
+            "Là một giai đoạn phát triển của phương thức sản xuất tư bản chủ nghĩa",
+            "Là một hình thái kinh tế - xã hội",
+            "Là một phương thức sản xuất mới",
+            "Là một nấc thang phát triển của lực lượng sản xuất"
+        ],
+        "answer": "Là một giai đoạn phát triển của phương thức sản xuất tư bản chủ nghĩa",
+        "answer_index": "A"
+    },
+    {
+        "id": 36,
+        "question": "Phương thức sản xuất tư bản chủ nghĩa có những giai đoạn nào?",
+        "options": [
+            "Chủ nghĩa tư bản tự do cạnh tranh và chủ nghĩa tư bản độc quyền",
+            "Chủ nghĩa tư bản hiện đại và chủ nghĩa tư bản độc quyền",
+            "Chủ nghĩa tư bản hiện đại và chủ nghĩa tư bản tự do cạnh tranh",
+            "Chủ nghĩa tư bản ngày nay và chủ nghĩa tư bản độc quyền"
+        ],
+        "answer": "Chủ nghĩa tư bản tự do cạnh tranh và chủ nghĩa tư bản độc quyền",
+        "answer_index": "A"
+    },
+    {
+        "id": 37,
+        "question": "Trong giai đoạn chủ nghĩa tư bản độc quyền, mục đích của xuất khẩu tư bản là gì?",
+        "options": [
+            "Để giải quyết nguồn “tư bản thừa” trong nước",
+            "Chiếm đoạt giá trị thặng dư và các nguồn lợi khác ở nước nhập khẩu tư bản",
+            "Thực hiện giá trị và chiếm các nguồn lợi khác từ nước nhập khẩu tư bản",
+            "Giúp đỡ các nước nhập khẩu tư bản phát triển"
+        ],
+        "answer": "Chiếm đoạt giá trị thặng dư và các nguồn lợi khác ở nước nhập khẩu tư bản",
+        "answer_index": "B"
+    },
+    {
+        "id": 38,
+        "question": "Tập trung sản xuất và các tổ chức độc quyền là một trong những đặc điểm của giai đoạn nào?",
+        "options": [
+            "Độc quyền trong chủ nghĩa tư bản",
+            "Độc quyền nhà nước trong chủ nghĩa tư bản",
+            "Độc quyền tự nhiên",
+            "Độc quyền doanh nghiệp"
+        ],
+        "answer": "Độc quyền trong chủ nghĩa tư bản",
+        "answer_index": "A"
+    },
+    {
+        "id": 39,
+        "question": "Độc quyền nhà nước trong chủ nghĩa tư bản là hình thức vận động mới của yếu tố nào sau đây?",
+        "options": [
+            "Nền kinh tế thị trường",
+            "Quan hệ sản xuất tư bản chủ nghĩa",
+            "Chủ nghĩa tư bản độc quyền",
+            "Chủ nghĩa tư bản cạnh tranh tự do"
+        ],
+        "answer": "Chủ nghĩa tư bản độc quyền",
+        "answer_index": "C"
+    },
+    {
+        "id": 40,
+        "question": "Chủ nghĩa tư bản độc quyền nhà nước ra đời vào khoảng thời gian nào?",
+        "options": [
+            "Cuối thế kỷ XVII đầu thế kỷ XVIII",
+            "Cuối thế kỷ XVIII đầu thế kỷ XIX",
+            "Cuối thế kỷ XIX đầu thế kỷ XX",
+            "Những năm giữa thế kỷ XX"
+        ],
+        "answer": "Những năm giữa thế kỷ XX",
+        "answer_index": "D"
+    },
+    {
+        "id": 41,
+        "question": "Mô hình kinh tế thị trường định hướng xã hội chủ nghĩa ở nước ta chính thức nêu ra ở Đại hội nào của Đảng Cộng sản Việt Nam?",
+        "options": [
+            "Đại hội VI",
+            "Đại hội VII",
+            "Đại hội VIII",
+            "Đại hội IX"
+        ],
+        "answer": "Đại hội IX",
+        "answer_index": "D"
+    },
+    {
+        "id": 42,
+        "question": "Thế nào là sở hữu?",
+        "options": [
+            "Là quan hệ giữa người và tự nhiên trong quá trình sản xuất của cải vật chất",
+            "Là hình thức xã hội của chiếm hữu trong một xã hội",
+            "Là quan hệ giữa con người với con người trong quá trình sản xuất và tái sản xuất xã hội",
+            "Là quan hệ giữa con người với con người trong việc chiếm hữu tư liệu sản xuất"
+        ],
+        "answer": "Là quan hệ giữa con người với con người trong việc chiếm hữu tư liệu sản xuất",
+        "answer_index": "D"
+    },
+    {
+        "id": 43,
+        "question": "Trong nền kinh tế thị trường định hướng xã hội chủ nghĩa ở Việt Nam, sở hữu tư nhân tồn tại như thế nào?",
+        "options": [
+            "Bị xem nhẹ",
+            "Tồn tại đan xen với các hình thức sở hữu khác",
+            "Bị hạn chế",
+            "Là hình thức sở hữu thống trị"
+        ],
+        "answer": "Tồn tại đan xen với các hình thức sở hữu khác",
+        "answer_index": "B"
+    },
+    {
+        "id": 44,
+        "question": "Đặc trưng nào phản ánh thuộc tính quan trọng mang tính định hướng xã hội chủ nghĩa nền kinh tế thị trường ở Việt Nam?",
+        "options": [
+            "Về mục tiêu",
+            "Về quan hệ sở hữu và thành phần kinh tế",
+            "Về quan hệ quản lý nền kinh tế và quan hệ phân phối",
+            "Về quan hệ giữa tăng trưởng kinh tế với công bằng xã hội"
+        ],
+        "answer": "Về quan hệ giữa tăng trưởng kinh tế với công bằng xã hội",
+        "answer_index": "D"
+    },
+    {
+        "id": 45,
+        "question": "Những hình thức phân phối nào phản ánh định hướng xã hội chủ nghĩa của nền kinh tế thị trường ở Việt Nam?",
+        "options": [
+            "Phân phối công bằng các yếu tố sản xuất",
+            "Phân phối theo lao động và hiệu quả kinh tế, phân phối theo phúc lợi",
+            "Phân phối theo vốn và tài sản ",
+            "Phân phối công bằng việc tiếp cận và sử dụng các cơ hội và điều kiện phát triển của mọi chủ thể kinh tế "
+        ],
+        "answer": "Phân phối theo lao động và hiệu quả kinh tế, phân phối theo phúc lợi",
+        "answer_index": "B"
+    },
+    {
+        "id": 46,
+        "question": "Biểu hiện nào dưới đây thể hiện vai trò chủ đạo của kinh tế nhà nước trong nền kinh tế thị trường định hướng xã hội chủ nghĩa ở Việt Nam?",
+        "options": [
+            "Quy mô, số lượng các lĩnh vực kinh tế mà Nhà nước nắm giữ",
+            "Nắm giữ tất cả các lĩnh vực kinh tế",
+            "Sự tăng nhanh của số lượng doanh nghiệp nhà nước",
+            "Là lực lượng vật chất quan trọng để Nhà nước điều tiết nền kinh tế"
+        ],
+        "answer": "Là lực lượng vật chất quan trọng để Nhà nước điều tiết nền kinh tế",
+        "answer_index": "D"
+    },
+    {
+        "id": 47,
+        "question": "Trong các nguyên tắc phân phối dưới đây, nguyên tắc nào là chủ yếu nhất ở nước ta hiện nay?",
+        "options": [
+            "Phân phối theo lao động",
+            "Phân phối theo giá trị sức lao động",
+            "Phân phối theo kết quả sản xuất kinh doanh",
+            "Phân phối theo vốn hay tài sản"
+        ],
+        "answer": "Phân phối theo lao động",
+        "answer_index": "A"
+    },
+    {
+        "id": 48,
+        "question": "Mô hình kinh tế tổng quát trong thời kỳ quá độ lên chủ nghĩa xã hội ở nước ta hiện nay là gì?",
+        "options": [
+            "Kinh tế thị trường có sự quản lý của Nhà nước",
+            "Kinh tế nhiều thành phần theo định hướng xã hội chủ nghĩa",
+            "Kinh tế thị trường định hướng xã hội chủ nghĩa",
+            "Kinh tế nhiều thành phần có sự quản lý của Nhà nước"
+        ],
+        "answer": "Kinh tế thị trường định hướng xã hội chủ nghĩa",
+        "answer_index": "C"
+    },
+    {
+        "id": 49,
+        "question": "Đâu không phải là lý do hoàn thiện thể chế kinh tế thị trường định hướng xã hội chủ nghĩa ở Việt Nam?",
+        "options": [
+            "Thể chế kinh tế thị trường định hướng xã hội chủ nghĩa chưa đồng bộ",
+            "Hệ thống thể chế chưa đầy đủ",
+            "Hệ thống thể chế còn kém hiệu lực, hiệu quả, thiếu các yếu tố thị trường và các loại thị trường",
+            "Thể chế kinh tế thị trường định hướng xã hội chủ nghĩa không phù hợp"
+        ],
+        "answer": "Thể chế kinh tế thị trường định hướng xã hội chủ nghĩa không phù hợp",
+        "answer_index": "D"
+    },
+    {
+        "id": 50,
+        "question": "Vai trò của lợi ích kinh tế đối với các chủ thể kinh tế - xã hội là gì?",
+        "options": [
+            "Là động lực trực tiếp của các chủ thể và hoạt động kinh tế - xã hội",
+            "Là nguyện vọng của các chủ thể kinh tế",
+            "Là trách nhiệm của các chủ thể kinh tế",
+            "Là quyền lợi của các chủ thể kinh tế"
+        ],
+        "answer": "Là động lực trực tiếp của các chủ thể và hoạt động kinh tế - xã hội",
+        "answer_index": "A"
+    },
+    {
+        "id": 51,
+        "question": "Chủ trương đẩy mạnh “công nghiệp hóa, hiện đại hóa đất nước” được đề ra ở Đại hội nào của Đảng Cộng sản Việt Nam?",
+        "options": [
+            "Đại hội VI",
+            "Đại hội VII",
+            "Đại hội VIII",
+            "Đại hội IX"
+        ],
+        "answer": "Đại hội VIII",
+        "answer_index": "C"
+    },
+    {
+        "id": 52,
+        "question": "Những quan điểm mới về công nghiệp hóa, hiện đại hóa đất nước được đề ra ở Đại hội nào của Đảng Cộng sản Việt Nam?",
+        "options": [
+            "Đại hội VI",
+            "Đại hội VII",
+            "Đại hội VIII",
+            "Đại hội IX"
+        ],
+        "answer": "Đại hội IX",
+        "answer_index": "D"
+    },
+    {
+        "id": 53,
+        "question": "Nghiên cứu về cách mạng công nghiệp lần thứ nhất, Karl Marx đã khái quát tính quy luật của cách mạnh công nghiệp qua ba giai đoạn phát triển nào sau đây?",
+        "options": [
+            "Đại công nghiệp, công trường thủ công, hiệp tác giản đơn",
+            "Hiệp tác giản đơn, công trường thủ công, đại công nghiệp",
+            "Công trường thủ công, hiệp tác giản đơn, đại công nghiệp",
+            "Hiệp tác giản đơn, đại công nghiệp, công trường thủ công"
+        ],
+        "answer": "Hiệp tác giản đơn, công trường thủ công, đại công nghiệp",
+        "answer_index": "B"
+    },
+    {
+        "id": 54,
+        "question": "Bản chất/Đặc trưng cơ bản của cách mạng công nghiệp lần thứ tư là gì?",
+        "options": [
+            "Sử dụng công nghệ thông tin và máy tính, để tự động hóa sản xuất",
+            "Liên kết giữa thế giới thực và ảo, để thực hiện công việc thông minh và hiệu quả nhất",
+            "Sử dụng năng lượng điện và động cơ điện, để tạo ra dây truyền sản xuất hàng loạt",
+            "Sử dụng năng lượng nước và hơi nước, để cơ khí hóa sản xuất"
+        ],
+        "answer": "Liên kết giữa thế giới thực và ảo, để thực hiện công việc thông minh và hiệu quả nhất",
+        "answer_index": "B"
+    },
+    {
+        "id": 55,
+        "question": "Đặc trưng cơ bản của cách mạng công nghiệp lần thứ ba là gì?",
+        "options": [
+            "Sử dụng công nghệ thông tin và máy tính, để tự động hóa sản xuất",
+            "Liên kết giữa thế giới thực và ảo, để thực hiện công việc thông minh và hiệu quả nhất",
+            "Sử dụng năng năng lượng điện và động cơ điện, để tạo ra dây truyền sản xuất hàng loạt",
+            "Sử dụng năng lượng nước và hơi nước, để cơ khí hóa sản xuất"
+        ],
+        "answer": "Sử dụng công nghệ thông tin và máy tính, để tự động hóa sản xuất",
+        "answer_index": "A"
+    },
+    {
+        "id": 56,
+        "question": "Đặc trưng cơ bản của cách mạng công nghiệp lần thứ hai là gì?",
+        "options": [
+            "Sử dụng công nghệ thông tin và máy tính để tự động hóa sản xuất",
+            "Sử dụng năng lượng nước và hơi nước để cơ khí hóa sản xuất",
+            "Liên kết giữa thế giới thực và ảo, để thực hiện công việc thông minh và hiệu quả nhất",
+            "Sử dụng năng lượng điện và động cơ điện, để tạo ra dây truyền sản xuất hàng loạt"
+        ],
+        "answer": "Sử dụng năng lượng điện và động cơ điện, để tạo ra dây truyền sản xuất hàng loạt",
+        "answer_index": "D"
+    },
+    {
+        "id": 57,
+        "question": "Đặc trưng cơ bản của cách mạng công nghiệp lần thứ nhất là gì?",
+        "options": [
+            "Sử dụng công nghệ thông tin và máy tính để tự động hóa sản xuất",
+            "Sử dụng năng lượng nước và hơi nước để cơ khí hóa sản xuất",
+            "Liên kết giữa thế giới thực và ảo, để thực hiện công việc thông minh và hiệu quả nhất",
+            "Sử dụng năng lượng điện và động cơ điện, để tạo ra dây truyền sản xuất hàng loạt"
+        ],
+        "answer": "Sử dụng năng lượng nước và hơi nước để cơ khí hóa sản xuất",
+        "answer_index": "B"
+    },
+    {
+        "id": 58,
+        "question": "Công nghiệp hóa là quá trình chuyển đổi nền sản xuất xã hội từ dựa trên lao động thủ công là chính sang nền sản xuất xã hội dựa chủ yếu trên lao động bằng máy móc nhằm tạo ra điều gì?",
+        "options": [
+            "Nền kinh tế hiện đại",
+            "Nền kinh tế phát triển cao",
+            "Năng suất lao động xã hội cao",
+            "Xã hội hiện đại"
+        ],
+        "answer": "Năng suất lao động xã hội cao",
+        "answer_index": "C"
+    },
+    {
+        "id": 59,
+        "question": "Đặc điểm chủ yếu của công nghiệp hóa, hiện đại hóa ở Việt Nam là gì?",
+        "options": [
+            "Công nghiệp hóa, hiện đại hóa theo định hướng xã hội chủ nghĩa, thực hiện mục tiêu “dân giàu, nước mạnh, dân chủ, công bằng, văn minh”",
+            "Công nghiệp hóa, hiện đại hóa, thực hiện mục tiêu “dân giàu, nước mạnh, dân chủ, công bằng, văn minh”",
+            "Công nghiệp hóa, hiện đại hóa trong điều kiện kinh tế thị trường",
+            "Công nghiệp hóa, hiện đại hóa trong bối cảnh mới"
+        ],
+        "answer": "Công nghiệp hóa, hiện đại hóa theo định hướng xã hội chủ nghĩa, thực hiện mục tiêu “dân giàu, nước mạnh, dân chủ, công bằng, văn minh”",
+        "answer_index": "A"
+    },
+    {
+        "id": 60,
+        "question": "Quan điểm về công nghiệp hóa, hiện đại hóa ở Việt Nam trong bối cảnh cách mạng lần thứ tư là gì?",
+        "options": [
+            "Có các điều kiện cần thiết và các biện pháp phải được thực hiện đồng bộ",
+            "Giải phóng mọi nguồn lực, phát huy sức sáng tạo của toàn dân",
+            "Chủ động chuẩn bị các điều kiện cần thiết, giải phóng mọi nguồn lực;các biện pháp thích ứng phải được thực hiện đồng bộ, phát huy sức sáng tạo của toàn dân",
+            "Có đủ các điều kiện cần thiết, giải phóng mọi nguồn lực; các biện pháp phải được thực hiện đồng bộ"
+        ],
+        "answer": "Chủ động chuẩn bị các điều kiện cần thiết, giải phóng mọi nguồn lực;các biện pháp thích ứng phải được thực hiện đồng bộ, phát huy sức sáng tạo của toàn dân",
+        "answer_index": "C"
+    },
+    {
+        "id": 61,
+        "question": "Thuật ngữ khoa học “Kinh tế chính trị” xuất hiện lần đầu tiên trong tác phẩm nào dưới đây?",
+        "options": [
+            "Tư bản (Karl Marx)",
+            "Chuyên luận về kinh tế chính trị (Antoine de Montchrestien)",
+            "Tình cảnh giai cấp công nhân Anh (Friedrich Engels)",
+            "Sự trỗi dậy và suy tàn của đế chế thứ ba (William L. Shirer)"
+        ],
+        "answer": "Chuyên luận về kinh tế chính trị (Antoine de Montchrestien)",
+        "answer_index": "B"
+    },
+    {
+        "id": 62,
+        "question": "Người nào được Karl Marx xem là sáng lập ra kinh tế - chính trị tư sản cổ điển Anh?",
+        "options": [
+            "Adam Smith",
+            "William Petty",
+            "David Ricardo",
+            "Thomas Robert Mathus"
+        ],
+        "answer": "William Petty",
+        "answer_index": "B"
+    },
+    {
+        "id": 63,
+        "question": "David Ricardo là nhà kinh tế học của thời kỳ nào?",
+        "options": [
+            "Thời kỳ tích luỹ nguyên thuỷ tư bản chủ nghĩa",
+            "Thời kỳ công trường thủ công",
+            "Thời kỳ hiệp tác giản đơn",
+            "Thời kỳ đại công nghiệp cơ khí"
+        ],
+        "answer": "Thời kỳ đại công nghiệp cơ khí",
+        "answer_index": "D"
+    },
+    {
+        "id": 64,
+        "question": "Khi nghiên cứu phương thức sản xuất tư bản chủ nghĩa, Karl Marx đã bắt đầu nghiên cứu từ đâu?",
+        "options": [
+            "Sản xuất của cải vật chất",
+            "Sản xuất giá trị thặng dư",
+            "Lưu thông hàng hoá",
+            "Sản xuất hàng hoá giản đơn và hàng hoá"
+        ],
+        "answer": "Sản xuất hàng hoá giản đơn và hàng hoá",
+        "answer_index": "D"
+    },
+    {
+        "id": 65,
+        "question": "Lí luận “Kinh tế chính trị” của Karl Marx và Friedrich Engels được thể hiện tập trung và cô đọng nhất trong tác phẩm nào dưới đây?",
+        "options": [
+            "Tuyên ngôn của Đảng Cộng sản",
+            "Tư bản",
+            "Gia đình thần thánh",
+            "Chuyên luận về kinhh tế chính trị"
+        ],
+        "answer": "Tư bản",
+        "answer_index": "B"
+    },
+    {
+        "id": 66,
+        "question": "Chức năng cơ bản nào sau đây là của kinh tế chính trị Marx – Lenin?",
+        "options": [
+            "Chức năng nhận thức, chức năng thực tiễn, chức năng phương pháp luận, chức năng thế giới quan",
+            "Chức năng nhận thức, chức năng thực tiễn, chức năng tư tưởng, chức năng phương pháp luận",
+            "Chức năng nhận thức, chức năng thực tiễn, chức năng tư tưởng, chức năng xã hội",
+            "Chức năng nhận thức, chức năng thực tiễn, chức năng phương pháp luận, chức năng xã hội"
+        ],
+        "answer": "Chức năng nhận thức, chức năng thực tiễn, chức năng tư tưởng, chức năng phương pháp luận",
+        "answer_index": "B"
+    },
+    {
+        "id": 67,
+        "question": "Nội dung nào sau đây không thuộc chức năng nhận thức của kinh tế chính trị Marx – Lenin?",
+        "options": [
+            "Phát hiện bản chất của các hiện tượng và quá trình kinh tế",
+            "Sự tác động giữa quan hệ sản xuất với lực lượng sản xuất và kiến trúc thượng tầng",
+            "Tìm ra các quy luật kinh tế",
+            "Góp phần xây dựng thế giới quan cách mạng của giai cấp công nhân"
+        ],
+        "answer": "Góp phần xây dựng thế giới quan cách mạng của giai cấp công nhân",
+        "answer_index": "D"
+    },
+    {
+        "id": 68,
+        "question": "Hoạt động nào của con người được coi là cơ bản nhất và là cơ sở của đời sống xã hội?",
+        "options": [
+            "Hoạt động chính trị",
+            "Hoạt động khoa học",
+            "Hoạt động sản xuất của cải vật chất",
+            "Hoạt động nghệ thuật, thể thao"
+        ],
+        "answer": "Hoạt động sản xuất của cải vật chất",
+        "answer_index": "C"
+    },
+    {
+        "id": 69,
+        "question": "Quá trình sản xuất là sự kết hợp của các yếu tố nào sau đây?",
+        "options": [
+            "Sức lao động với công cụ lao động",
+            "Lao động với tư liệu lao động",
+            "Sức lao động với tư liệu sản xuất",
+            "Lao động với đối tượng lao động"
+        ],
+        "answer": "Sức lao động với tư liệu sản xuất",
+        "answer_index": "C"
+    },
+    {
+        "id": 70,
+        "question": "Để xem xét, giải thích nguồn gốc sâu xa của các hiện tượng kinh tế- xã hội phải xuất phát từ đâu?",
+        "options": [
+            "Từ hệ tư tưởng của giai cấp thống trị",
+            "Từ truyền thống lịch sử",
+            "Từ các hoạt động kinh tế",
+            "Từ ý thức xã hội"
+        ],
+        "answer": "Từ các hoạt động kinh tế",
+        "answer_index": "C"
+    },
+    {
+        "id": 71,
+        "question": "Các cách diễn đạt giá trị của hàng hóa dưới đây, cách nào sai?",
+        "options": [
+            "Giá trị hàng hóa = c + v ",
+            "Giá trị hàng hóa = giá trị cũ + giá trị mới",
+            "Giá trị hàng hóa = k + p",
+            "Giá trị hàng hóa = c + v + m"
+        ],
+        "answer": "Giá trị hàng hóa = k + p",
+        "answer_index": "C"
+    },
+    {
+        "id": 72,
+        "question": "Nhân tố nào sau đây không ảnh hưởng đến lượng giá trị hàng hóa?",
+        "options": [
+            "Năng suất lao động, cường độ lao động",
+            "Mức độ phức tạp của lao động",
+            "Yếu tố cung cầu trên thị trường",
+            "Tiền tệ"
+        ],
+        "answer": "Yếu tố cung cầu trên thị trường",
+        "answer_index": "C"
+    },
+    {
+        "id": 73,
+        "question": "Quy luật kinh tế cơ bản của sản xuất và trao đổi hàng hóa là quy luật nào sau đây?",
+        "options": [
+            "Quy luật giá trị",
+            "Quy luật cung cầu",
+            "Quy luật lưu thông tiền tệ",
+            "Quy luật cạnh tranh"
+        ],
+        "answer": "Quy luật giá trị",
+        "answer_index": "A"
+    },
+    {
+        "id": 74,
+        "question": "Trong các chức năng cơ bản của tiền tệ, chức năng nào là quan trọng nhất?",
+        "options": [
+            "Thước đo giá trị",
+            "Phương tiện cất trữ",
+            "Phương tiện thanh toán",
+            "Tiền tệ thế giới"
+        ],
+        "answer": "Thước đo giá trị",
+        "answer_index": "A"
+    },
+    {
+        "id": 75,
+        "question": "Giá trị hàng hóa được quyết định bởi yếu tố nào sau đây?",
+        "options": [
+            "Sự khan hiếm của hàng hóa",
+            "Giá trị sử dụng của hàng hóa",
+            "Giá cả của hàng hóa",
+            "Lao động xã hội của người sản xuất ra hàng hóa kết tinh trong hàng hóa đó"
+        ],
+        "answer": "Lao động xã hội của người sản xuất ra hàng hóa kết tinh trong hàng hóa đó",
+        "answer_index": "D"
+    },
+    {
+        "id": 76,
+        "question": "Yếu tố căn bản quyết định giá cả hàng hóa là gì?",
+        "options": [
+            "Quan hệ cung cầu về hàng hóa",
+            "Thị hiếu, mốt thời trang và tâm lý xã hội ở mỗi thời kỳ",
+            "Giá trị sử dụng của hàng hóa cũng tức là chất lượng của hàng hóa đó",
+            "Giá trị của hàng hóa"
+        ],
+        "answer": "Giá trị của hàng hóa",
+        "answer_index": "D"
+    },
+    {
+        "id": 77,
+        "question": "Dấu hiệu đặc trưng của cơ chế thị trường là gì?",
+        "options": [
+            "Là cơ chế hình thành giá cả một cách tự do",
+            "Là cơ chế hình thành giá cả do chủ quan của người mua",
+            "Là cơ chế hình thành giá cả do nhà nước quyết định",
+            "Là cơ chế hình thành giá cả theo ý muốn chủ quan của người bán"
+        ],
+        "answer": "Là cơ chế hình thành giá cả một cách tự do",
+        "answer_index": "A"
+    },
+    {
+        "id": 78,
+        "question": "Quan hệ cung cầu thuộc khâu nào của quá trình tái sản xuất xã hội?",
+        "options": [
+            "Sản xuất và tiêu dùng",
+            "Trao đổi",
+            "Tiêu dùng",
+            "Phân phối và trao đổi"
+        ],
+        "answer": "Phân phối và trao đổi",
+        "answer_index": "D"
+    },
+    {
+        "id": 79,
+        "question": "Công dụng của vật phẩm có thỏa mãn nhu cầu của con người là nội dung của khái niệm nào?",
+        "options": [
+            "Giá trị",
+            "Giá trị trao đổi",
+            "Giá cả",
+            "Giá trị sử dụng"
+        ],
+        "answer": "Giá trị sử dụng",
+        "answer_index": "D"
+    },
+    {
+        "id": 80,
+        "question": "Tác động của quy luật giá trị đối với nền kinh tế - xã hội là gì?",
+        "options": [
+            "Thúc đẩy cải tiến kỹ thuật, tăng năng suất lao động",
+            "Điều tiết việc di chuyển lao động, tiền vốn và tư liệu sản xuất từ khu vực sản xuất này sang khu vực sản xuất khác",
+            "Phân hóa xã hội thành những người giàu, người nghèo",
+            "Thúc đẩy cải tiến kỹ thuật, điều tiết sản xuất và lưu thông hàng hóa và phân hóa sản xuất thành những người giàu, người nghèo"
+        ],
+        "answer": "Thúc đẩy cải tiến kỹ thuật, điều tiết sản xuất và lưu thông hàng hóa và phân hóa sản xuất thành những người giàu, người nghèo",
+        "answer_index": "D"
+    },
+    {
+        "id": 81,
+        "question": "Sản xuất hàng hóa ra đời dựa vào những điều kiện nào sau đây?",
+        "options": [
+            "Con người muốn tiêu dùng những sản phẩm do người khác làm ra",
+            "Sự phát triển của lực lượng sản xuất có thể sản xuất những sản phẩm tốt hơn",
+            "Một quan hệ về lượng giữa những giá trị sử dụng khác nhau",
+            "Phân công lao động xã hội và sự tách biệt tương đối về mặt kinh tế của các chủ thể sản xuất"
+        ],
+        "answer": "Phân công lao động xã hội và sự tách biệt tương đối về mặt kinh tế của các chủ thể sản xuất",
+        "answer_index": "D"
+    },
+    {
+        "id": 82,
+        "question": "Theo quan niệm của Karl Marx, lao động trừu tượng tạo ra yếu tố gì?",
+        "options": [
+            "Tạo ra giá trị sử dụng của hàng hóa",
+            "Tạo ra giá trị của hàng hóa",
+            "Tạo ra giá trị trao đổi",
+            "Tạo ra giá trị thặng dư"
+        ],
+        "answer": "Tạo ra giá trị của hàng hóa",
+        "answer_index": "B"
+    },
+    {
+        "id": 83,
+        "question": "Theo quan niệm của Karl Marx, lao động cụ thể tạo ra yếu tố gì?",
+        "options": [
+            "Tạo ra giá trị sử dụng của hàng hóa",
+            "Tạo ra giá trị của hàng hóa",
+            "Tạo ra giá trị trao đổi",
+            "Tạo ra giá trị thặng dư"
+        ],
+        "answer": "Tạo ra giá trị sử dụng của hàng hóa",
+        "answer_index": "A"
+    },
+    {
+        "id": 84,
+        "question": "Những quy luật kinh tế chủ yếu của thị trường là gì?",
+        "options": [
+            "Quy luật giá trị, quy luật cung cầu",
+            "Quy luật giá trị, quy luật cung cầu, quy luật lưu thông tiền tệ",
+            "Quy luật giá trị, quy luật cung cầu, quy luật lưu thông tiền tệ, quy luật cạnh tranh",
+            "Quy luật giá trị, quy luật cung cầu, quy luật cạnh tranh"
+        ],
+        "answer": "Quy luật giá trị, quy luật cung cầu, quy luật lưu thông tiền tệ, quy luật cạnh tranh",
+        "answer_index": "C"
+    },
+    {
+        "id": 85,
+        "question": "Dịch vụ có được xem là hàng hóa không?",
+        "options": [
+            "Dịch vụ không phải là hàng hóa",
+            "Dịch vụ là một loại hàng hóa vô hình",
+            "Dịch vụ là một loại hàng hóa hữu hình",
+            "Dịch vụ là một loại hàng hóa giản đơn"
+        ],
+        "answer": "Dịch vụ là một loại hàng hóa vô hình",
+        "answer_index": "B"
+    },
+    {
+        "id": 86,
+        "question": "Theo quan niệm của chủ nghĩa Marx - Lenin, lao động giản đơn được hiểu như thế nào?",
+        "options": [
+            "Là lao động làm công việc đơn giản",
+            "Là lao động làm ra các hàng hóa chất lượng không cao",
+            "Là lao động chỉ làm một công đoạn của quá trình tạo ra hàng hóa",
+            "Là lao động không cần trải qua đào tạo cũng có thể làm được"
+        ],
+        "answer": "Là lao động không cần trải qua đào tạo cũng có thể làm được",
+        "answer_index": "D"
+    },
+    {
+        "id": 87,
+        "question": "Theo Karl Marx, điều kiện để tiền biến thành tư bản là gì?",
+        "options": [
+            "Phải tích lũy được một lượng tiền lớn",
+            "Khi được dùng để mang lại giá trị thặng dư",
+            "Mục đích thu giá trị thặng dư",
+            "Phải tích lũy được một lượng máy móc lớn; máy móc phải được đưa vào kinh doanh tư bản với mục đích thu giá trị thặng dư"
+        ],
+        "answer": "Khi được dùng để mang lại giá trị thặng dư",
+        "answer_index": "B"
+    },
+    {
+        "id": 88,
+        "question": "Theo Karl Marx, nguồn gốc của giá trị thặng dư là gì?",
+        "options": [
+            "Là kết quả lao động không công của người công nhân",
+            "Do máy móc và công nghệ tiên tiến",
+            "Do bán hàng hóa cao hơn giá trị",
+            "Do mua rẻ, bán đắt của nhà tư bản"
+        ],
+        "answer": "Là kết quả lao động không công của người công nhân",
+        "answer_index": "A"
+    },
+    {
+        "id": 89,
+        "question": "Tư bản khả biến là bộ phận tạo ra yếu tố nào sau đây?",
+        "options": [
+            "Bộ phận trực tiếp tạo ra giá trị sử dụng",
+            "Bộ phận trực tiếp tạo ra giá trị thặng dư",
+            "Bộ phận trực tiếp tạo ra sản phẩm thặng dư",
+            "Bộ phận gián tiếp tạo ra giá trị thặng dư"
+        ],
+        "answer": "Bộ phận trực tiếp tạo ra giá trị thặng dư",
+        "answer_index": "B"
+    },
+    {
+        "id": 90,
+        "question": "Ngày lao động của công nhân gồm thời gian nào?",
+        "options": [
+            "Thời gian lao động giản đơn và thời gian lao động thặng dư",
+            "Thời gian lao động phức tạp và thời gian lao động thặng dư",
+            "Thời gian lao động cần thiết và thời gian lao động thặng dư",
+            "Thời gian lao động phức tạp và thời gian lao động cần thiết"
+        ],
+        "answer": "Thời gian lao động cần thiết và thời gian lao động thặng dư",
+        "answer_index": "C"
+    },
+    {
+        "id": 91,
+        "question": "Tỷ suất giá trị thặng dư phản ánh điều gì?",
+        "options": [
+            "Quy mô bóc lột của tư bản đối với người lao động",
+            "Trình độ bóc lột của tư bản đối với người lao động",
+            "Phạm vi bóc lột của tư bản đối với người lao động",
+            "Tính chất bóc lột của tư bản đối với người lao động"
+        ],
+        "answer": "Trình độ bóc lột của tư bản đối với người lao động",
+        "answer_index": "B"
+    },
+    {
+        "id": 92,
+        "question": "Khối lượng giá trị thặng dư phản ánh điều gì?",
+        "options": [
+            "Quy mô bóc lột của tư bản đối với người lao động",
+            "Trình độ bóc lột của tư bản đối với người lao động",
+            "Phạm vi bóc lột của tư bản đối với người lao động",
+            "Tính chất bóc lột của tư bản đối với người lao động"
+        ],
+        "answer": "Quy mô bóc lột của tư bản đối với người lao động",
+        "answer_index": "A"
+    },
+    {
+        "id": 93,
+        "question": "Mục đích trực tiếp của nền sản xuất tư bản chủ nghĩa là gì?",
+        "options": [
+            "Sản xuất ra ngày càng nhiều sản phẩm",
+            "Mở rộng phạm vi thống trị của quan hệ sản xuất tư bản chủ nghĩa",
+            "Tạo ra ngày càng nhiều giá trị thặng dư",
+            "Làm cho lao động ngày càng lệ thuộc vào tư bản"
+        ],
+        "answer": "Tạo ra ngày càng nhiều giá trị thặng dư",
+        "answer_index": "C"
+    },
+    {
+        "id": 94,
+        "question": "Theo quan điểm của chủ nghĩa Marx, trong nền kinh tế thị trường thì chi phí sản xuất tư bản chủ nghĩa bao gồm yếu tố nào sau đây?",
+        "options": [
+            "Tổng số tiền nhà tư bản ứng ra",
+            "Số tiền nhà tư bản mua máy móc, nguyên liệu",
+            "Chi phí về tư liệu sản xuất và sức lao động",
+            "Chi phí tư bản bất biến (c) và tư bản khả biến (v)"
+        ],
+        "answer": "Chi phí tư bản bất biến (c) và tư bản khả biến (v)",
+        "answer_index": "D"
+    },
+    {
+        "id": 95,
+        "question": "Các hình thức biểu hiện của giá trị thặng dư trong nền kinh tế thị trường?",
+        "options": [
+            "Lợi nhuận và lợi tức",
+            "Lợi nhuận và địa tô",
+            "Lợi tức và địa tô",
+            "Lợi nhuận, lợi tức và địa tô"
+        ],
+        "answer": "Lợi nhuận, lợi tức và địa tô",
+        "answer_index": "D"
+    },
+    {
+        "id": 96,
+        "question": "Trong nền sản xuất tư bản chủ nghĩa, bản chất của tích lũy tư bản là gì?",
+        "options": [
+            "Là việc sáp nhập các nhà tư bản lại với nhau",
+            "Là tư bản hóa giá trị thặng dư",
+            "Là địa tô được tư bản hóa",
+            "Là vay thêm tiền để mở rộng quy mô sản xuất"
+        ],
+        "answer": "Là tư bản hóa giá trị thặng dư",
+        "answer_index": "B"
+    },
+    {
+        "id": 97,
+        "question": "Căn cứ vào đâu để chia tư bản thành tư bản bất biến và tư bản khả biến?",
+        "options": [
+            "Tốc độ chu chuyển của tư bản",
+            "Phương thức chuyển giá trị các bộ phận tư bản sang sản phẩm",
+            "Vai trò các bộ phận tư bản trong quá trình sản xuất giá trị thặng dư",
+            "Sự thay đổi về lượng trong quá trình sản xuất"
+        ],
+        "answer": "Vai trò các bộ phận tư bản trong quá trình sản xuất giá trị thặng dư",
+        "answer_index": "C"
+    },
+    {
+        "id": 98,
+        "question": "Thực chất của tư bản trong nền kinh tế thị trường tự do cạnh tranh tư bản chủ nghĩa là gì?",
+        "options": [
+            "Là giá trị mang lại giá trị thặng dư bằng cách bóc lột lao động không công của công nhân làm thuê",
+            "Là toàn bộ số tiền của nhà tư bản có được",
+            "Là toàn bộ tư liệu sản xuất của xã hội",
+            "Là toàn bộ tư bản trả cho lao động làm thuê"
+        ],
+        "answer": "Là giá trị mang lại giá trị thặng dư bằng cách bóc lột lao động không công của công nhân làm thuê",
+        "answer_index": "A"
+    },
+    {
+        "id": 99,
+        "question": "Nhân tố chủ yếu ảnh hưởng đến tốc độ chu chuyển của tư bản là gì?",
+        "options": [
+            "Thời gian sản xuất dài hay ngắn của một vòng tuần hoàn",
+            "Thời gian tồn tại của tư bản cố định trong một vòng tuần hoàn",
+            "Thời gian sản xuất và thời gian lưu thông để thực hiện một vòng tuần hoàn",
+            "Thời gian bán hàng hóa để thu về giá trị thặng dư và thời gian mua hàng hóa để tiếp tục vòng tuần hoàn"
+        ],
+        "answer": "Thời gian sản xuất và thời gian lưu thông để thực hiện một vòng tuần hoàn",
+        "answer_index": "C"
+    },
+    {
+        "id": 100,
+        "question": "Cách diễn đạt nào dưới đây là sai?",
+        "options": [
+            "Giá trị mới của sản phẩm = v + m",
+            "Giá trị của sản phẩm mới = v + m",
+            "Giá trị của tư liệu sản xuất = c",
+            "Giá trị của sức lao động = v"
+        ],
+        "answer": "Giá trị của sản phẩm mới = v + m",
+        "answer_index": "B"
+    },
+    {
+        "id": 101,
+        "question": "Về mặt lịch sử, các hình thức tổ chức độc quyền cơ bản phát triển từ thấp đến cao theo thứ tự nào sau đây?",
+        "options": [
+            "Cartel - Syndicate - Trust - Consortium",
+            "Syndicate - Trust - Cartel - Consortium",
+            "Trust - Cartel - Syndicate - Consortium",
+            "Cartel - Trust - Syndicate - Consortium"
+        ],
+        "answer": "Cartel - Syndicate - Trust - Consortium",
+        "answer_index": "A"
+    },
+    {
+        "id": 102,
+        "question": "Các tổ chức độc quyền của các quốc gia cạnh tranh trên thị trường quốc tế sẽ dẫn đến xu hướng nào?",
+        "options": [
+            "Thỏa hiệp với nhau hình thành các tổ chức độc quyền quốc tế",
+            "Thôn tính nhau",
+            "Đấu tranh không khoan nhượng",
+            "Một số tổ chức độc quyền bị phá sản, số còn lại phát triển mạnh hơn"
+        ],
+        "answer": "Thỏa hiệp với nhau hình thành các tổ chức độc quyền quốc tế",
+        "answer_index": "A"
+    },
+    {
+        "id": 103,
+        "question": "Sở hữu nhà nước được hình thành dựa trên hình thức nào sau đây?",
+        "options": [
+            "Nhận viện trợ của nước ngoài",
+            "Nhà nước mua cổ phần của các doanh nghiệp tư nhân",
+            "Thu hồi tài sản của doanh nghiệp tư nhân",
+            "Đóng góp tự nguyện của các doanh nghiệp tư nhân"
+        ],
+        "answer": "Nhà nước mua cổ phần của các doanh nghiệp tư nhân",
+        "answer_index": "B"
+    },
+    {
+        "id": 104,
+        "question": "Để tạo điều kiện cho các tổ chức độc quyền phát triển, nhà nước tư sản đứng ra đảm nhận phát triển các ngành nào?",
+        "options": [
+            "Vốn đầu tư nhỏ, thu hồi vốn nhanh và lợi nhuận cao",
+            "Vốn đầu tư lớn, thu hồi vốn chậm và lợi nhuận cao",
+            "Vốn đầu tư lớn, thu hồi vốn nhanh và ít lợi nhuận",
+            "Vốn đầu tư lớn, thu hồi vốn chậm và ít lợi nhuận"
+        ],
+        "answer": "Vốn đầu tư lớn, thu hồi vốn chậm và ít lợi nhuận",
+        "answer_index": "D"
+    },
+    {
+        "id": 105,
+        "question": "Sự ra đời của chủ nghĩa tư bản độc quyền nhà nước nhằm mục đích gì?",
+        "options": [
+            "Phục vụ lợi ích của chủ nghĩa tư bản",
+            "Phục vụ lợi ích của các tổ chức độc quyền tư nhân",
+            "Phục vụ lợi ích của nhà nước tư sản",
+            "Phục vụ lợi ích của các tổ chức độc quyền tư nhân và tiếp tục duy trì, phát triển chủ nghĩa tư bản"
+        ],
+        "answer": "Phục vụ lợi ích của các tổ chức độc quyền tư nhân và tiếp tục duy trì, phát triển chủ nghĩa tư bản",
+        "answer_index": "D"
+    },
+    {
+        "id": 106,
+        "question": "Sự kết hợp về nhân sự giữa các tổ chức độc quyền tư nhân và nhà nước tư sản là một trong những biểu hiện chủ yếu của giai đoạn nào?",
+        "options": [
+            "Độc quyền trong chủ nghĩa tư bản",
+            "Độc quyền doanh nghiệp",
+            "Độc quyền tự nhiên",
+            "Độc quyền nhà nước trong chủ nghĩa tư bản"
+        ],
+        "answer": "Độc quyền nhà nước trong chủ nghĩa tư bản",
+        "answer_index": "D"
+    },
+    {
+        "id": 107,
+        "question": "Sở hữu độc quyền nhà nước là sự kết hợp các nhân tố nào?",
+        "options": [
+            "Sở hữu của các doanh nghiệp nhà nước",
+            "Sở hữu nhà nước và sở hữu tư nhân",
+            "Sở hữu nhà nước và sở hữu độc quyền tư nhân",
+            "Sở hữu của các tổ chức độc quyền quốc tế"
+        ],
+        "answer": "Sở hữu nhà nước và sở hữu độc quyền tư nhân",
+        "answer_index": "C"
+    },
+    {
+        "id": 108,
+        "question": "Cơ cơ chế điều tiết kinh tế độc quyền nhà nước là sự dung hợp của những cơ chế nào?",
+        "options": [
+            "Thị trường, độc quyền tư nhân và nhà nước tư sản",
+            "Thị trường và độc quyền tư nhân",
+            "Thị trường và điều tiết của nhà nước",
+            "Độc quyền tư nhân và độc quyền nhà nước"
+        ],
+        "answer": "Thị trường, độc quyền tư nhân và nhà nước tư sản",
+        "answer_index": "A"
+    },
+    {
+        "id": 109,
+        "question": "Xét về hình thức, xuất khẩu tư bản được thực hiện dưới hai hình thức chủ yếu nào?",
+        "options": [
+            "Xuất khẩu tư bản tư nhân và xuất khẩu tư bản nhà nước",
+            "Xuất khẩu hàng hóa hữu hình và xuất khẩu hàng hóa vô hình ",
+            "Đầu tư trực tiếp và đầu tư gián tiếp",
+            "Đầu tư theo hình thức góp vốn và đầu tư thông qua việc cho vay để thu lợi tức"
+        ],
+        "answer": "Đầu tư trực tiếp và đầu tư gián tiếp",
+        "answer_index": "C"
+    },
+    {
+        "id": 110,
+        "question": "Đặc điểm của các xí nghiệp tư bản tham gia Cartel là gì?",
+        "options": [
+            "Độc lập về sản xuất và lưu thông",
+            "Độc lập về sản xuất, phụ thuộc về lưu thông",
+            "Phụ thuộc về sản xuất và lưu thông",
+            "Phụ thuộc về sản xuất, độc lập về lưu thông"
+        ],
+        "answer": "Độc lập về sản xuất và lưu thông",
+        "answer_index": "A"
+    },
+    {
+        "id": 111,
+        "question": "Quan điểm: “Kinh tế thị trường định hướng xã hội chủ nghĩa là mô hình kinh tế tổng quát của thời kỳ quá độ lên chủ nghĩa xã hội ở nước ta” được khẳng định trong văn kiện Đại hội đại biểu toàn quốc lần thứ mấy của Đảng Cộng sản Việt Nam?",
+        "options": [
+            "Lần thứ VIII",
+            "Lần thứ IX",
+            "Lần thứ X.",
+            "Lần thứ XI"
+        ],
+        "answer": "Lần thứ IX",
+        "answer_index": "B"
+    },
+    {
+        "id": 112,
+        "question": "Quan điểm: “ Nền kinh tế thị trường định hướng xã hội chủ nghĩa ở nước ta là nền kinh tế hàng hóa nhiều thành phần, vận hành theo cơ chế thị trường, có sự quản lý của Nhà nước, dưới sự lãnh đạo của Đảng Cộng sản” được khẳng định trong văn kiện Đại hội đại biểu toàn quốc lần thứ mấy của Đảng Cộng sản Việt Nam?",
+        "options": [
+            "Lần thứ VIII",
+            "Lần thứ IX",
+            "Lần thứ X",
+            "Lần thứ XI"
+        ],
+        "answer": "Lần thứ IX",
+        "answer_index": "B"
+    },
+    {
+        "id": 113,
+        "question": "Đâu không phải là nội dung hoàn thiện thể chế kinh tế thị trường định hướng xã hội chủ nghĩa ở Việt Nam?",
+        "options": [
+            "Hoàn thiện thể chế để phát triển đồng bộ các yếu tố thị trường và các loại thị trường",
+            "Hoàn thiện thể chế đảm bảo tăng trưởng kinh tế với bảo đảm tiến bộ và công bằng xã hội",
+            "Hoàn thiện thể chế thúc đẩy hội nhập kinh tế quốc tế",
+            "Hoàn thiện nguyện vọng của các chủ thể  kinh tế"
+        ],
+        "answer": "Hoàn thiện nguyện vọng của các chủ thể  kinh tế",
+        "answer_index": "D"
+    },
+    {
+        "id": 114,
+        "question": "Tại sao ở Việt Nam hiện nay vẫn còn tồn tại nhiều thành phần kinh tế?",
+        "options": [
+            "Tồn tại nhiều hình thức sở hữu tư liệu sản xuất",
+            "Tồn tại nhiều hình thức phân phối",
+            "Sự phát triển của lực lượng sản xuất",
+            "Sự phát triển của quan hệ sản sản xuất"
+        ],
+        "answer": "Tồn tại nhiều hình thức sở hữu tư liệu sản xuất",
+        "answer_index": "A"
+    },
+    {
+        "id": 115,
+        "question": "Biểu hiện nào dưới đây không thể hiện vai trò chủ đạo của kinh tế nhà nước trong nền kinh tế thị trường định hướng xã hội chủ nghĩa ở Việt Nam?",
+        "options": [
+            "Quy mô, số lượng các lĩnh vực kinh tế mà Nhà nước nắm giữ",
+            "Nắm giữ các lĩnh vực kinh tế then chốt của nền kinh tế",
+            "Đi đầu trong việc chấp hành pháp luật, tăng năng suất, chất lượng, hiệu quả",
+            "Là lực lượng vật chất quan trọng để Nhà nước điều tiết nền kinh tế"
+        ],
+        "answer": "Quy mô, số lượng các lĩnh vực kinh tế mà Nhà nước nắm giữ",
+        "answer_index": "A"
+    },
+    {
+        "id": 116,
+        "question": "Vai trò của lợi ích kinh tế đối với các chủ thể kinh tế - xã hội là gì?",
+        "options": [
+            "Là nguyện vọng của các chủ thể kinh tế",
+            "Là cơ sở thúc đẩy sự phát triển các lợi ích khác",
+            "Là trách nhiệm của các chủ thể kinh tế",
+            "Là quyền lợi của các chủ thể kinh tế"
+        ],
+        "answer": "Là cơ sở thúc đẩy sự phát triển các lợi ích khác",
+        "answer_index": "B"
+    },
+    {
+        "id": 117,
+        "question": "Vai trò của cách mạng công nghiệp đối với phát triển kinh tế - xã hội là gì?",
+        "options": [
+            "Thúc đẩy lực lượng sản xuất; thúc đẩy hoàn thiện quan hệ sản xuất; thúc đẩy đổi mới phương thức quản trị phát triển",
+            "Thúc đẩy lực lượng sản xuất; thúc đẩy kinh tế đối ngoại phát triển"
+        ],
+        "answer": "Thúc đẩy lực lượng sản xuất; thúc đẩy hoàn thiện quan hệ sản xuất; thúc đẩy đổi mới phương thức quản trị phát triển",
+        "answer_index": "A"
+    },
+    {
+        "id": 197,
+        "question": "Nhiệm vụ quan trọng nhất để hoàn thiện thể chế kinh tế thị trường định hướng xã hội chủ nghĩa là gì?",
+        "options": [
+            "Hoàn thiện thể chế về quyền sở hữu",
+            "Hoàn thiện thể chế về phát triển các thành phần kinh tế",
+            "Hoàn thiện thể chế về đồng bộ các loại thị trường",
+            "Nâng cao vai trò lãnh đạo của Đảng"
+        ],
+        "answer": "Hoàn thiện thể chế về quyền sở hữu",
+        "answer_index": "A"
+    },
+    {
+        "id": 198,
+        "question": "Hai nhân viên cùng nỗ lực để được đề bạt lên vị trí quản lý. Đó là quan hệ lợi ích kinh tế gì?",
+        "options": [
+            "Quan hệ lợi ích kinh tế giữa doanh nghiệp với nhau",
+            "Quan hệ lợi ích kinh tế giữa người lao động và doanh nghiệp",
+            "Quan hệ lợi ích kinh tế giữa người lao động với nhau",
+            "Quan hệ lợi ích kinh tế giữa lợi ích cá nhân với lợi ích xã hội"
+        ],
+        "answer": "Quan hệ lợi ích kinh tế giữa người lao động với nhau",
+        "answer_index": "C"
+    },
+    {
+        "id": 199,
+        "question": "Việt Nam tiến hành công nghiệp hóa như thế nào để thích ứng với Cách mạng công nghiệp lần thứ 4?",
+        "options": [
+            "Phát triển lực lượng sản xuất trên cơ sở thành tựu cách mạng khoa học hiện đại",
+            "Chuyển đổi cơ cấu kinh tế theo hướng tăng tỷ trọng nông nghiệp",
+            "Điều chỉnh quan hệ sản xuất và kiến trúc thượng tầng phù hợp với sự phát triển lực lượng sản xuất",
+            "Tăng tỷ trọng công nghiệp, dịch vụ đồng thời tăng giá trị của các ngành"
+        ],
+        "answer": "Phát triển lực lượng sản xuất trên cơ sở thành tựu cách mạng khoa học hiện đại",
+        "answer_index": "A"
+    },
+    {
+        "id": 200,
+        "question": "Đâu không phải là tác động của hội nhập kinh tế quốc tế đến quá trình phát triển của Việt Nam hiện nay?",
+        "options": [
+            "Tạo cơ hội để nâng cao chất lượng nguồn nhân lực",
+            "Làm gia tăng sự cạnh tranh gay gắt",
+            "Chuẩn bị các điều kiện để thực hiện hội nhập hiệu quả, thành công",
+            "Tạo điều kiện mở rộng thị trường, tiếp thu khoa học công nghệ, vốn, chuyển dịch cơ cấu kinh tế trong nước"
+        ],
+        "answer": "Chuẩn bị các điều kiện để thực hiện hội nhập hiệu quả, thành công",
+        "answer_index": "C"
+    }
+]
