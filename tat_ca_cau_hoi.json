@@ -1,0 +1,2202 @@
+[
+    {
+        "id": 1,
+        "q": "Thuật ngữ 'Kinh tế- chính trị' được sử dụng lần đầu tiên vào năm nào?",
+        "arr": [
+            "1610",
+            "1615",
+            "1612",
+            "1618"
+        ],
+        "ans": "B"
+    },
+    {
+        "id": 2,
+        "q": "Ai là người đầu tiên đưa ra khái niệm 'Kinh tế- chính trị'?",
+        "arr": [
+            "Antoine Montchretien",
+            "Tomas Mun",
+            "Francois Quesney",
+            "William Petty"
+        ],
+        "ans": "A"
+    },
+    {
+        "id": 3,
+        "q": "Đối tượng nghiên cứu của kinh tế- chính trị Marx – Lenin là gì?",
+        "arr": [
+            "Sản xuất của cải vật chất",
+            "Quan hệ xã hội giữa người với người",
+            "Các quan hệ xã hội của sản xuất và trao đổi",
+            "Quá trình sản xuất, phân phối, trao đổi, tiêu dùng"
+        ],
+        "ans": "C"
+    },
+    {
+        "id": 4,
+        "q": "Ai là người có công trong việc phát triển kinh tế chính trị Marx – Lenin?",
+        "arr": [
+            "Georg Wilhelm Friedrich Hegel",
+            "Friedrich Engels",
+            "Vladimir IlyichLenin",
+            "Francois Quesnay"
+        ],
+        "ans": "C"
+    },
+    {
+        "id": 5,
+        "q": "Kinh tế chính trị Marx – Lenin có mấy chức năng cơ bản?",
+        "arr": [
+            "3",
+            "5",
+            "4",
+            "6"
+        ],
+        "ans": "C"
+    },
+    {
+        "id": 6,
+        "q": "Kinh tế chính trị Marx – Lenin không có chức năng nào sau đây?",
+        "arr": [
+            "Chức năng nhận thức",
+            "Chức năng thực tiễn",
+            "Chức năng phương pháp luận",
+            "Chức năng bản thể luận"
+        ],
+        "ans": "D"
+    },
+    {
+        "id": 7,
+        "q": "Mục đích chủ yếu của nghiên cứu kinh tế chính trị Marx – Lenin là gì?",
+        "arr": [
+            "Thúc đẩy sự giàu có",
+            "Phát hiện ra các quy luật chi phối quan hệ giữa người với người trong sản xuất và trao đổi",
+            "Tạo động lực thúc đẩy sự sáng tạo của con người trong xã hội",
+            "Góp phần thúc đẩy văn minh và sự phát triển toàn diện của xã hội"
+        ],
+        "ans": "B"
+    },
+    {
+        "id": 8,
+        "q": "Chọn ý đúng về kinh tế chính trị Marx – Lenin?",
+        "arr": [
+            "Một trong ba bộ phận cấu thành chủ nghĩa Marx – Lenin",
+            "Một trong ba tiền đề hình thành chủ nghĩa Marx – Lenin",
+            "Một trong ba nguồn gốc của chủ nghĩa Marx – Lenin",
+            "Một trong ba học thuyết quan trọng của chủ nghĩa Marx – Lenin"
+        ],
+        "ans": "A"
+    },
+    {
+        "id": 9,
+        "q": "Nội dung nào sau đây không thuộc chức năng tư tưởng của kinh tế chính trị Marx - Lenin?",
+        "arr": [
+            "Phát hiện bản chất của các hiện tượng và quá trình kinh tế",
+            "Góp phần xây dựng thế giới quan cách mạng của giai cấp công nhân",
+            "Tạo niềm tin vào thắng lợi trong cuộc đấu tranh xoá bỏ áp bức bóc lột",
+            "Là vũ khí tư tưởng của giai cấp công nhân và nhân dân lao động trong công cuộc xây dựng chủ nghĩa xã hội"
+        ],
+        "ans": "A"
+    },
+    {
+        "id": 10,
+        "q": "Nội dung nào sau đây không thuộc chức năng phương pháp luận của kinh tế chính trị Marx – Lenin?",
+        "arr": [
+            "Trang bị phương pháp để xem xét thế giới nói chung",
+            "Là nền tảng lý luận cho các khoa học kinh tế ngành",
+            "Là cơ sở lý luận cho các khoa học nằm giáp ranh giữa các tri thức các ngành khác nhau",
+            "Là vũ khí tư tưởng của giai cấp công nhân và nhân dân lao động trong công cuộc xây dựng chủ nghĩa xã hội"
+        ],
+        "ans": "D"
+    },
+    {
+        "id": 11,
+        "q": "[Câu 11] Hàng hóa là gì?",
+        "arr": [
+            "Sản phẩm của lao động nhằm thỏa mãn nhu cầu con người thông qua mua bán",
+            "Sản phẩm của lao động dùng cho người sản xuất tiêu dùng",
+            "Sản phẩm của tự nhiên phục vụ con người",
+            "Bất kỳ vật gì có ích cho đời sống"
+        ],
+        "ans": "A"
+    },
+    {
+        "id": 12,
+        "q": "[Câu 12] Hai thuộc tính của hàng hóa là gì?",
+        "arr": [
+            "Giá trị sử dụng và giá trị trao đổi",
+            "Giá trị sử dụng và giá trị",
+            "Giá trị và giá trị trao đổi",
+            "Giá trị trao đổi và tiền tệ"
+        ],
+        "ans": "B"
+    },
+    {
+        "id": 13,
+        "q": "[Câu 13] Lao động cụ thể là gì?",
+        "arr": [
+            "Lao động tạo ra giá trị của hàng hóa",
+            "Lao động có ích dưới một hình thức cụ thể của một nghề nghiệp chuyên môn nhất định",
+            "Lao động hao phí cơ bắp và thần kinh nói chung của con người",
+            "Lao động của người thợ thủ công xưa"
+        ],
+        "ans": "B"
+    },
+    {
+        "id": 14,
+        "q": "[Câu 14] Lao động trừu tượng tạo ra thuộc tính nào của hàng hóa?",
+        "arr": [
+            "Giá trị sử dụng",
+            "Giá trị trao đổi",
+            "Giá trị hàng hóa",
+            "Giá trị thặng dư"
+        ],
+        "ans": "C"
+    },
+    {
+        "id": 15,
+        "q": "[Câu 15] Lượng giá trị của hàng hóa được đo lường bằng gì?",
+        "arr": [
+            "Thời gian lao động cá biệt",
+            "Thời gian lao động xã hội cần thiết",
+            "Chi phí sản xuất bằng tiền",
+            "Mức độ khan hiếm trên thị trường"
+        ],
+        "ans": "B"
+    },
+    {
+        "id": 16,
+        "q": "[Câu 16] Khi năng suất lao động tăng lên thì:",
+        "arr": [
+            "Lượng giá trị của một đơn vị hàng hóa giảm xuống",
+            "Lượng giá trị của một đơn vị hàng hóa tăng lên",
+            "Tổng giá trị hàng hóa tăng lên",
+            "Lượng giá trị của một đơn vị hàng hóa không đổi"
+        ],
+        "ans": "A"
+    },
+    {
+        "id": 17,
+        "q": "[Câu 17] Khi cường độ lao động tăng lên thì:",
+        "arr": [
+            "Lượng giá trị của một đơn vị hàng hóa giảm xuống",
+            "Lượng giá trị của một đơn vị hàng hóa tăng lên",
+            "Tổng giá trị hàng hóa tăng lên nhưng lượng giá trị 1 đơn vị không đổi",
+            "Tổng giá trị hàng hóa giảm"
+        ],
+        "ans": "C"
+    },
+    {
+        "id": 18,
+        "q": "[Câu 18] Tiền tệ có mấy chức năng cơ bản theo lý luận của C.Mác?",
+        "arr": [
+            "3",
+            "4",
+            "5",
+            "6"
+        ],
+        "ans": "C"
+    },
+    {
+        "id": 19,
+        "q": "[Câu 19] Quy luật giá trị là quy luật kinh tế căn bản của:",
+        "arr": [
+            "Sản xuất tự cung tự cấp",
+            "Sản xuất hàng hóa",
+            "Chủ nghĩa tư bản",
+            "Chủ nghĩa xã hội"
+        ],
+        "ans": "B"
+    },
+    {
+        "id": 20,
+        "q": "[Câu 20] Nội dung cơ bản của quy luật giá trị là gì?",
+        "arr": [
+            "Sản xuất và trao đổi hàng hóa phải dựa trên cơ sở hao phí lao động xã hội cần thiết",
+            "Sản xuất hàng hóa càng nhiều càng tốt",
+            "Trao đổi hàng hóa phải theo giá cả thị trường tự do",
+            "Mua rẻ bán đắt"
+        ],
+        "ans": "A"
+    },
+    {
+        "id": 21,
+        "q": "[Câu 21] Công thức chung của tư bản là gì?",
+        "arr": [
+            "H - T - H'",
+            "T - H - T'",
+            "T - T'",
+            "H - H'"
+        ],
+        "ans": "B"
+    },
+    {
+        "id": 22,
+        "q": "[Câu 22] Mâu thuẫn của công thức chung của tư bản là gì?",
+        "arr": [
+            "Giá trị thặng dư vừa sinh ra trong lưu thông, vừa không sinh ra trong lưu thông",
+            "Hàng hóa và tiền tệ mâu thuẫn nhau",
+            "Người mua và người bán mâu thuẫn nhau",
+            "Tư bản bất biến và tư bản khả biến mâu thuẫn nhau"
+        ],
+        "ans": "A"
+    },
+    {
+        "id": 23,
+        "q": "[Câu 23] Sức lao động trở thành hàng hóa một cách phổ biến khi nào?",
+        "arr": [
+            "Trong xã hội chiếm hữu nô lệ",
+            "Trong xã hội phong kiến",
+            "Trong xã hội tư bản chủ nghĩa",
+            "Trong xã hội xã hội chủ nghĩa"
+        ],
+        "ans": "C"
+    },
+    {
+        "id": 24,
+        "q": "[Câu 24] Hai điều kiện để sức lao động trở thành hàng hóa là gì?",
+        "arr": [
+            "Người lao động được tự do về thân thể và không có tư liệu sản xuất",
+            "Người lao động có tay nghề cao và cần tiền",
+            "Xã hội phân công lao động sâu sắc và phát triển thương mại",
+            "Tư liệu sản xuất dồi dào và thị trường mở rộng"
+        ],
+        "ans": "A"
+    },
+    {
+        "id": 25,
+        "q": "[Câu 25] Giá trị sử dụng của hàng hóa sức lao động có đặc tính gì đặc biệt?",
+        "arr": [
+            "Càng dùng càng hao mòn đi",
+            "Khi sử dụng nó tạo ra giá trị mới lớn hơn giá trị của bản thân nó",
+            "Không thể đo lường được",
+            "Giống như các loại hàng hóa thông thường khác"
+        ],
+        "ans": "B"
+    },
+    {
+        "id": 26,
+        "q": "[Câu 26] Giá trị thặng dư (m) là gì?",
+        "arr": [
+            "Phần giá trị do lao động quá khứ tạo ra",
+            "Phần giá trị mới dôi ra ngoài giá trị sức lao động do công nhân làm thuê tạo ra và bị nhà tư bản chiếm đoạt",
+            "Phần lợi nhuận của doanh nghiệp thu được sau khi trừ chi phí",
+            "Tiền thưởng nhà tư bản dành cho công nhân"
+        ],
+        "ans": "B"
+    },
+    {
+        "id": 27,
+        "q": "[Câu 27] Ngày lao động của công nhân được chia thành hai phần là:",
+        "arr": [
+            "Thời gian lao động cần thiết và thời gian lao động thặng dư",
+            "Thời gian lao động chân tay và thời gian lao động trí óc",
+            "Thời gian sản xuất và thời gian lưu thông",
+            "Thời gian làm việc và thời gian nghỉ ngơi"
+        ],
+        "ans": "A"
+    },
+    {
+        "id": 28,
+        "q": "[Câu 28] Tư bản bất biến (c) là bộ phận tư bản:",
+        "arr": [
+            "Biến đổi về lượng trong quá trình sản xuất",
+            "Không tái hiện lại trong sản phẩm",
+            "Giá trị của nó được bảo tồn và chuyển nguyên vẹn vào sản phẩm mới thông qua lao động cụ thể",
+            "Dùng để mua sức lao động"
+        ],
+        "ans": "C"
+    },
+    {
+        "id": 29,
+        "q": "[Câu 29] Tư bản khả biến (v) là bộ phận tư bản:",
+        "arr": [
+            "Giá trị của nó chuyển nguyên vẹn vào sản phẩm mới",
+            "Dùng để mua máy móc thiết bị",
+            "Dùng để mua sức lao động và tăng lên về lượng thông qua quá trình sản xuất",
+            "Không thay đổi giá trị"
+        ],
+        "ans": "C"
+    },
+    {
+        "id": 30,
+        "q": "[Câu 30] Căn cứ để phân chia tư bản thành tư bản bất biến và tư bản khả biến là gì?",
+        "arr": [
+            "Tốc độ chu chuyển của tư bản",
+            "Vai trò của các bộ phận tư bản trong việc tạo ra giá trị thặng dư",
+            "Hình thái tồn tại của tư bản bằng tiền hay bằng vật",
+            "Phương thức chuyển giá trị vào sản phẩm"
+        ],
+        "ans": "B"
+    },
+    {
+        "id": 31,
+        "q": "[Câu 31] Tỷ suất giá trị thặng dư (m') phản ánh điều gì?",
+        "arr": [
+            "Quy mô bóc lột của nhà tư bản",
+            "Trình độ bóc lột của nhà tư bản đối với công nhân làm thuê",
+            "Hiệu quả sử dụng máy móc",
+            "Tốc độ quay vòng của vốn tư bản"
+        ],
+        "ans": "B"
+    },
+    {
+        "id": 32,
+        "q": "[Câu 32] Khối lượng giá trị thặng dư (M) phản ánh điều gì?",
+        "arr": [
+            "Trình độ bóc lột của tư bản",
+            "Quy mô bóc lột của tư bản",
+            "Tỷ lệ lợi nhuận của doanh nghiệp",
+            "Khả năng cạnh tranh của doanh nghiệp"
+        ],
+        "ans": "B"
+    },
+    {
+        "id": 33,
+        "q": "[Câu 33] Có mấy phương pháp sản xuất giá trị thặng dư chủ yếu?",
+        "arr": [
+            "2",
+            "3",
+            "4",
+            "5"
+        ],
+        "ans": "A"
+    },
+    {
+        "id": 34,
+        "q": "[Câu 34] Sản xuất giá trị thặng dư tuyệt đối là phương pháp:",
+        "arr": [
+            "Kéo dài ngày lao động vượt quá thời gian lao động cần thiết trong khi năng suất lao động không đổi",
+            "Tăng năng suất lao động xã hội",
+            "Rút ngắn thời gian lao động cần thiết",
+            "Ứng dụng máy móc hiện đại"
+        ],
+        "ans": "A"
+    },
+    {
+        "id": 35,
+        "q": "[Câu 35] Sản xuất giá trị thặng dư tương đối là phương pháp:",
+        "arr": [
+            "Kéo dài ngày lao động",
+            "Rút ngắn thời gian lao động cần thiết dựa trên cơ sở tăng năng suất lao động xã hội",
+            "Tăng cường độ lao động của công nhân",
+            "Sử dụng nguyên liệu rẻ tiền"
+        ],
+        "ans": "B"
+    },
+    {
+        "id": 36,
+        "q": "[Câu 36] Giá trị thặng dư siêu ngạch là hình thức biến tướng của:",
+        "arr": [
+            "Giá trị thặng dư tuyệt đối",
+            "Giá trị thặng dư tương đối",
+            "Lợi nhuận thương nghiệp",
+            "Lợi tức cho vay"
+        ],
+        "ans": "B"
+    },
+    {
+        "id": 37,
+        "q": "[Câu 37] Bản chất của tích lũy tư bản là gì?",
+        "arr": [
+            "Tiết kiệm tiền của nhà tư bản",
+            "Biến một phần giá trị thặng dư thành tư bản phụ thêm để mở rộng sản xuất",
+            "Gom góp tư liệu sản xuất từ người nghèo",
+            "Sự hỗ trợ vốn của nhà nước tư sản"
+        ],
+        "ans": "B"
+    },
+    {
+        "id": 38,
+        "q": "[Câu 38] Động lực cơ bản thúc đẩy tích lũy tư bản là gì?",
+        "arr": [
+            "Lòng vị tha của nhà tư bản",
+            "Quy luật giá trị thặng dư và quy luật cạnh tranh",
+            "Sự định hướng của nhà nước",
+            "Nhu cầu tiêu dùng của xã hội"
+        ],
+        "ans": "B"
+    },
+    {
+        "id": 39,
+        "q": "[Câu 39] Cấu tạo hữu cơ của tư bản (c/v) phản ánh quan hệ gì?",
+        "arr": [
+            "Quan hệ thuần túy về giá trị giữa tiền và hàng",
+            "Cấu tạo kỹ thuật được phản ánh qua cấu tạo giá trị của tư bản",
+            "Mối quan hệ giữa máy móc và nguyên liệu",
+            "Mối quan hệ giữa tiền lương và tiền thưởng"
+        ],
+        "ans": "B"
+    },
+    {
+        "id": 40,
+        "q": "[Câu 40] Tích tụ tư bản là quá trình tăng quy mô tư bản cá biệt bằng cách:",
+        "arr": [
+            "Hợp nhất các tư bản cá biệt có sẵn trong xã hội",
+            "Tăng năng suất lao động tối đa",
+            "Tăng quy mô tư bản cá biệt thông qua tích lũy giá trị thặng dư",
+            "Vay vốn ngân hàng"
+        ],
+        "ans": "C"
+    },
+    {
+        "id": 41,
+        "q": "[Câu 41] Tập trung tư bản là quá trình tăng quy mô tư bản cá biệt bằng cách:",
+        "arr": [
+            "Tích lũy giá trị thặng dư",
+            "Kết hợp nhiều tư bản cá biệt có sẵn trong xã hội thành một tư bản lớn hơn",
+            "Mở rộng thị trường tiêu thụ",
+            "Sản xuất thêm nhiều hàng hóa độc quyền"
+        ],
+        "ans": "B"
+    },
+    {
+        "id": 42,
+        "q": "[Câu 42] Chu chuyển của tư bản phản ánh điều gì?",
+        "arr": [
+            "Tốc độ tuần hoàn của tư bản nhanh hay chậm",
+            "Sự dịch chuyển của tư bản trong không gian",
+            "Sự thay đổi hình thái của tư bản",
+            "Quy mô tích lũy tư bản"
+        ],
+        "ans": "A"
+    },
+    {
+        "id": 43,
+        "q": "[Câu 43] Căn cứ để phân chia tư bản thành tư bản cố định và tư bản lưu động là:",
+        "arr": [
+            "Vai trò tạo ra giá trị thặng dư",
+            "Phương thức chuyển dịch giá trị của các bộ phận tư bản vào sản phẩm trong quá trình sản xuất",
+            "Tốc độ vận động nhanh hay chậm",
+            "Nguồn gốc hình thành của vốn"
+        ],
+        "ans": "B"
+    },
+    {
+        "id": 44,
+        "q": "[Câu 44] Chi phí sản xuất tư bản chủ nghĩa (k) gồm những bộ phận nào?",
+        "arr": [
+            "c + v + m",
+            "c + v",
+            "v + m",
+            "c + m"
+        ],
+        "ans": "B"
+    },
+    {
+        "id": 45,
+        "q": "[Câu 45] Lợi nhuận (p) là hình thái chuyển hóa của:",
+        "arr": [
+            "Tư bản bất biến",
+            "Tư bản khả biến",
+            "Giá trị thặng dư",
+            "Chi phí sản xuất"
+        ],
+        "ans": "C"
+    },
+    {
+        "id": 46,
+        "q": "[Câu 46] Tỷ suất lợi nhuận (p') tính theo công thức nào?",
+        "arr": [
+            "(m / c) * 100%",
+            "(m / v) * 100%",
+            "[m / (c + v)] * 100%",
+            "(p / m) * 100%"
+        ],
+        "ans": "C"
+    },
+    {
+        "id": 47,
+        "q": "[Câu 47] Cạnh tranh giữa các ngành dẫn đến hiện tượng gì?",
+        "arr": [
+            "Hình thành giá trị xã hội của hàng hóa",
+            "Hình thành tỷ suất lợi nhuận bình quân và giá cả sản xuất",
+            "Phá sản toàn bộ các doanh nghiệp nhỏ",
+            "Sự độc quyền hoàn toàn"
+        ],
+        "ans": "B"
+    },
+    {
+        "id": 48,
+        "q": "[Câu 48] Bản chất của lợi tức (z) là gì?",
+        "arr": [
+            "Một phần lợi nhuận bình quân mà nhà tư bản đi vay phải trả cho nhà tư bản cho vay",
+            "Toàn bộ giá trị thặng dư",
+            "Tiền thưởng của ngân hàng",
+            "Khoản thu nhập hợp pháp từ lao động của chủ ngân hàng"
+        ],
+        "ans": "A"
+    },
+    {
+        "id": 49,
+        "q": "[Câu 49] Địa tô tư bản chủ nghĩa phản ánh quan hệ giữa mấy giai cấp?",
+        "arr": [
+            "2",
+            "3",
+            "4",
+            "1"
+        ],
+        "ans": "B"
+    },
+    {
+        "id": 50,
+        "q": "[Câu 50] Chủ nghĩa tư bản độc quyền hình thành vào thời gian nào?",
+        "arr": [
+            "Cuối thế kỷ XVII - đầu thế kỷ XVIII",
+            "Cuối thế kỷ XIX - đầu thế kỷ XX",
+            "Sau Chiến tranh thế giới thứ hai",
+            "Giữa thế kỷ XX"
+        ],
+        "ans": "B"
+    },
+    {
+        "id": 51,
+        "q": "[Câu 51] Nguyên nhân căn bản dẫn đến chủ nghĩa tư bản độc quyền là:",
+        "arr": [
+            "Sự phát triển của lực lượng sản xuất và tập trung sản xuất",
+            "Do ý muốn chủ quan của các nhà tư bản lớn",
+            "Do chính sách thúc đẩy của nhà nước tư sản",
+            "Sự khan hiếm tài nguyên thiên nhiên"
+        ],
+        "ans": "A"
+    },
+    {
+        "id": 52,
+        "q": "[Câu 52] Các hình thức tổ chức độc quyền phát triển từ thấp đến cao gồm:",
+        "arr": [
+            "Cartel - Syndicate - Trust - Consortium",
+            "Trust - Cartel - Syndicate - Consortium",
+            "Syndicate - Cartel - Trust - Consortium",
+            "Consortium - Cartel - Syndicate - Trust"
+        ],
+        "ans": "A"
+    },
+    {
+        "id": 53,
+        "q": "[Câu 53] Xuất khẩu tư bản là gì?",
+        "arr": [
+            "Xuất khẩu hàng hóa ra nước ngoài nhằm kiếm lợi nhuận",
+            "Mang tư bản ra nước ngoài đầu tư sản xuất nhằm chiếm đoạt giá trị thặng dư ở nước sở tại",
+            "Cho nước ngoài vay tiền với lãi suất thấp",
+            "Nhập khẩu công nghệ cao từ nước ngoài"
+        ],
+        "ans": "B"
+    },
+    {
+        "id": 54,
+        "q": "[Câu 54] Bản chất của chủ nghĩa tư bản độc quyền nhà nước là:",
+        "arr": [
+            "Sự kết hợp sức mạnh của các tổ chức độc quyền tư nhân với sức mạnh của nhà nước tư sản",
+            "Nhà nước làm chủ toàn bộ nền kinh tế",
+            "Xóa bỏ hoàn toàn sở hữu tư nhân độc quyền",
+            "Sự chuyển hóa hoàn toàn sang chủ nghĩa xã hội"
+        ],
+        "ans": "A"
+    },
+    {
+        "id": 55,
+        "q": "[Câu 55] Cơ chế điều tiết kinh tế của chủ nghĩa tư bản độc quyền nhà nước là sự kết hợp giữa:",
+        "arr": [
+            "Cơ chế thị trường và sự can thiệp của nhà nước",
+            "Quy luật tự nhiên và quy luật xã hội",
+            "Kế hoạch hóa tập trung và mệnh lệnh hành chính",
+            "Độc quyền tư nhân và tự do cạnh tranh tuyệt đối"
+        ],
+        "ans": "A"
+    },
+    {
+        "id": 56,
+        "q": "[Câu 56] Hàng hóa là gì?",
+        "arr": [
+            "Sản phẩm của lao động nhằm thỏa mãn nhu cầu con người thông qua mua bán",
+            "Sản phẩm của lao động dùng cho người sản xuất tiêu dùng",
+            "Sản phẩm của tự nhiên phục vụ con người",
+            "Bất kỳ vật gì có ích cho đời sống"
+        ],
+        "ans": "A"
+    },
+    {
+        "id": 57,
+        "q": "[Câu 57] Hai thuộc tính của hàng hóa là gì?",
+        "arr": [
+            "Giá trị sử dụng và giá trị trao đổi",
+            "Giá trị sử dụng và giá trị",
+            "Giá trị và giá trị trao đổi",
+            "Giá trị trao đổi và tiền tệ"
+        ],
+        "ans": "B"
+    },
+    {
+        "id": 58,
+        "q": "[Câu 58] Lao động cụ thể là gì?",
+        "arr": [
+            "Lao động tạo ra giá trị của hàng hóa",
+            "Lao động có ích dưới một hình thức cụ thể của một nghề nghiệp chuyên môn nhất định",
+            "Lao động hao phí cơ bắp và thần kinh nói chung của con người",
+            "Lao động của người thợ thủ công xưa"
+        ],
+        "ans": "B"
+    },
+    {
+        "id": 59,
+        "q": "[Câu 59] Lao động trừu tượng tạo ra thuộc tính nào của hàng hóa?",
+        "arr": [
+            "Giá trị sử dụng",
+            "Giá trị trao đổi",
+            "Giá trị hàng hóa",
+            "Giá trị thặng dư"
+        ],
+        "ans": "C"
+    },
+    {
+        "id": 60,
+        "q": "[Câu 60] Lượng giá trị của hàng hóa được đo lường bằng gì?",
+        "arr": [
+            "Thời gian lao động cá biệt",
+            "Thời gian lao động xã hội cần thiết",
+            "Chi phí sản xuất bằng tiền",
+            "Mức độ khan hiếm trên thị trường"
+        ],
+        "ans": "B"
+    },
+    {
+        "id": 61,
+        "q": "[Câu 61] Khi năng suất lao động tăng lên thì:",
+        "arr": [
+            "Lượng giá trị của một đơn vị hàng hóa giảm xuống",
+            "Lượng giá trị của một đơn vị hàng hóa tăng lên",
+            "Tổng giá trị hàng hóa tăng lên",
+            "Lượng giá trị của một đơn vị hàng hóa không đổi"
+        ],
+        "ans": "A"
+    },
+    {
+        "id": 62,
+        "q": "[Câu 62] Khi cường độ lao động tăng lên thì:",
+        "arr": [
+            "Lượng giá trị của một đơn vị hàng hóa giảm xuống",
+            "Lượng giá trị của một đơn vị hàng hóa tăng lên",
+            "Tổng giá trị hàng hóa tăng lên nhưng lượng giá trị 1 đơn vị không đổi",
+            "Tổng giá trị hàng hóa giảm"
+        ],
+        "ans": "C"
+    },
+    {
+        "id": 63,
+        "q": "[Câu 63] Tiền tệ có mấy chức năng cơ bản theo lý luận của C.Mác?",
+        "arr": [
+            "3",
+            "4",
+            "5",
+            "6"
+        ],
+        "ans": "C"
+    },
+    {
+        "id": 64,
+        "q": "[Câu 64] Quy luật giá trị là quy luật kinh tế căn bản của:",
+        "arr": [
+            "Sản xuất tự cung tự cấp",
+            "Sản xuất hàng hóa",
+            "Chủ nghĩa tư bản",
+            "Chủ nghĩa xã hội"
+        ],
+        "ans": "B"
+    },
+    {
+        "id": 65,
+        "q": "[Câu 65] Nội dung cơ bản của quy luật giá trị là gì?",
+        "arr": [
+            "Sản xuất và trao đổi hàng hóa phải dựa trên cơ sở hao phí lao động xã hội cần thiết",
+            "Sản xuất hàng hóa càng nhiều càng tốt",
+            "Trao đổi hàng hóa phải theo giá cả thị trường tự do",
+            "Mua rẻ bán đắt"
+        ],
+        "ans": "A"
+    },
+    {
+        "id": 66,
+        "q": "[Câu 66] Công thức chung của tư bản là gì?",
+        "arr": [
+            "H - T - H'",
+            "T - H - T'",
+            "T - T'",
+            "H - H'"
+        ],
+        "ans": "B"
+    },
+    {
+        "id": 67,
+        "q": "[Câu 67] Mâu thuẫn của công thức chung của tư bản là gì?",
+        "arr": [
+            "Giá trị thặng dư vừa sinh ra trong lưu thông, vừa không sinh ra trong lưu thông",
+            "Hàng hóa và tiền tệ mâu thuẫn nhau",
+            "Người mua và người bán mâu thuẫn nhau",
+            "Tư bản bất biến và tư bản khả biến mâu thuẫn nhau"
+        ],
+        "ans": "A"
+    },
+    {
+        "id": 68,
+        "q": "[Câu 68] Sức lao động trở thành hàng hóa một cách phổ biến khi nào?",
+        "arr": [
+            "Trong xã hội chiếm hữu nô lệ",
+            "Trong xã hội phong kiến",
+            "Trong xã hội tư bản chủ nghĩa",
+            "Trong xã hội xã hội chủ nghĩa"
+        ],
+        "ans": "C"
+    },
+    {
+        "id": 69,
+        "q": "[Câu 69] Hai điều kiện để sức lao động trở thành hàng hóa là gì?",
+        "arr": [
+            "Người lao động được tự do về thân thể và không có tư liệu sản xuất",
+            "Người lao động có tay nghề cao và cần tiền",
+            "Xã hội phân công lao động sâu sắc và phát triển thương mại",
+            "Tư liệu sản xuất dồi dào và thị trường mở rộng"
+        ],
+        "ans": "A"
+    },
+    {
+        "id": 70,
+        "q": "[Câu 70] Giá trị sử dụng của hàng hóa sức lao động có đặc tính gì đặc biệt?",
+        "arr": [
+            "Càng dùng càng hao mòn đi",
+            "Khi sử dụng nó tạo ra giá trị mới lớn hơn giá trị của bản thân nó",
+            "Không thể đo lường được",
+            "Giống như các loại hàng hóa thông thường khác"
+        ],
+        "ans": "B"
+    },
+    {
+        "id": 71,
+        "q": "[Câu 71] Giá trị thặng dư (m) là gì?",
+        "arr": [
+            "Phần giá trị do lao động quá khứ tạo ra",
+            "Phần giá trị mới dôi ra ngoài giá trị sức lao động do công nhân làm thuê tạo ra và bị nhà tư bản chiếm đoạt",
+            "Phần lợi nhuận của doanh nghiệp thu được sau khi trừ chi phí",
+            "Tiền thưởng nhà tư bản dành cho công nhân"
+        ],
+        "ans": "B"
+    },
+    {
+        "id": 72,
+        "q": "[Câu 72] Ngày lao động của công nhân được chia thành hai phần là:",
+        "arr": [
+            "Thời gian lao động cần thiết và thời gian lao động thặng dư",
+            "Thời gian lao động chân tay và thời gian lao động trí óc",
+            "Thời gian sản xuất và thời gian lưu thông",
+            "Thời gian làm việc và thời gian nghỉ ngơi"
+        ],
+        "ans": "A"
+    },
+    {
+        "id": 73,
+        "q": "[Câu 73] Tư bản bất biến (c) là bộ phận tư bản:",
+        "arr": [
+            "Biến đổi về lượng trong quá trình sản xuất",
+            "Không tái hiện lại trong sản phẩm",
+            "Giá trị của nó được bảo tồn và chuyển nguyên vẹn vào sản phẩm mới thông qua lao động cụ thể",
+            "Dùng để mua sức lao động"
+        ],
+        "ans": "C"
+    },
+    {
+        "id": 74,
+        "q": "[Câu 74] Tư bản khả biến (v) là bộ phận tư bản:",
+        "arr": [
+            "Giá trị của nó chuyển nguyên vẹn vào sản phẩm mới",
+            "Dùng để mua máy móc thiết bị",
+            "Dùng để mua sức lao động và tăng lên về lượng thông qua quá trình sản xuất",
+            "Không thay đổi giá trị"
+        ],
+        "ans": "C"
+    },
+    {
+        "id": 75,
+        "q": "[Câu 75] Căn cứ để phân chia tư bản thành tư bản bất biến và tư bản khả biến là gì?",
+        "arr": [
+            "Tốc độ chu chuyển của tư bản",
+            "Vai trò của các bộ phận tư bản trong việc tạo ra giá trị thặng dư",
+            "Hình thái tồn tại của tư bản bằng tiền hay bằng vật",
+            "Phương thức chuyển giá trị vào sản phẩm"
+        ],
+        "ans": "B"
+    },
+    {
+        "id": 76,
+        "q": "[Câu 76] Tỷ suất giá trị thặng dư (m') phản ánh điều gì?",
+        "arr": [
+            "Quy mô bóc lột của nhà tư bản",
+            "Trình độ bóc lột của nhà tư bản đối với công nhân làm thuê",
+            "Hiệu quả sử dụng máy móc",
+            "Tốc độ quay vòng của vốn tư bản"
+        ],
+        "ans": "B"
+    },
+    {
+        "id": 77,
+        "q": "[Câu 77] Khối lượng giá trị thặng dư (M) phản ánh điều gì?",
+        "arr": [
+            "Trình độ bóc lột của tư bản",
+            "Quy mô bóc lột của tư bản",
+            "Tỷ lệ lợi nhuận của doanh nghiệp",
+            "Khả năng cạnh tranh của doanh nghiệp"
+        ],
+        "ans": "B"
+    },
+    {
+        "id": 78,
+        "q": "[Câu 78] Có mấy phương pháp sản xuất giá trị thặng dư chủ yếu?",
+        "arr": [
+            "2",
+            "3",
+            "4",
+            "5"
+        ],
+        "ans": "A"
+    },
+    {
+        "id": 79,
+        "q": "[Câu 79] Sản xuất giá trị thặng dư tuyệt đối là phương pháp:",
+        "arr": [
+            "Kéo dài ngày lao động vượt quá thời gian lao động cần thiết trong khi năng suất lao động không đổi",
+            "Tăng năng suất lao động xã hội",
+            "Rút ngắn thời gian lao động cần thiết",
+            "Ứng dụng máy móc hiện đại"
+        ],
+        "ans": "A"
+    },
+    {
+        "id": 80,
+        "q": "[Câu 80] Sản xuất giá trị thặng dư tương đối là phương pháp:",
+        "arr": [
+            "Kéo dài ngày lao động",
+            "Rút ngắn thời gian lao động cần thiết dựa trên cơ sở tăng năng suất lao động xã hội",
+            "Tăng cường độ lao động của công nhân",
+            "Sử dụng nguyên liệu rẻ tiền"
+        ],
+        "ans": "B"
+    },
+    {
+        "id": 81,
+        "q": "[Câu 81] Giá trị thặng dư siêu ngạch là hình thức biến tướng của:",
+        "arr": [
+            "Giá trị thặng dư tuyệt đối",
+            "Giá trị thặng dư tương đối",
+            "Lợi nhuận thương nghiệp",
+            "Lợi tức cho vay"
+        ],
+        "ans": "B"
+    },
+    {
+        "id": 82,
+        "q": "[Câu 82] Bản chất của tích lũy tư bản là gì?",
+        "arr": [
+            "Tiết kiệm tiền của nhà tư bản",
+            "Biến một phần giá trị thặng dư thành tư bản phụ thêm để mở rộng sản xuất",
+            "Gom góp tư liệu sản xuất từ người nghèo",
+            "Sự hỗ trợ vốn của nhà nước tư sản"
+        ],
+        "ans": "B"
+    },
+    {
+        "id": 83,
+        "q": "[Câu 83] Động lực cơ bản thúc đẩy tích lũy tư bản là gì?",
+        "arr": [
+            "Lòng vị tha của nhà tư bản",
+            "Quy luật giá trị thặng dư và quy luật cạnh tranh",
+            "Sự định hướng của nhà nước",
+            "Nhu cầu tiêu dùng của xã hội"
+        ],
+        "ans": "B"
+    },
+    {
+        "id": 84,
+        "q": "[Câu 84] Cấu tạo hữu cơ của tư bản (c/v) phản ánh quan hệ gì?",
+        "arr": [
+            "Quan hệ thuần túy về giá trị giữa tiền và hàng",
+            "Cấu tạo kỹ thuật được phản ánh qua cấu tạo giá trị của tư bản",
+            "Mối quan hệ giữa máy móc và nguyên liệu",
+            "Mối quan hệ giữa tiền lương và tiền thưởng"
+        ],
+        "ans": "B"
+    },
+    {
+        "id": 85,
+        "q": "[Câu 85] Tích tụ tư bản là quá trình tăng quy mô tư bản cá biệt bằng cách:",
+        "arr": [
+            "Hợp nhất các tư bản cá biệt có sẵn trong xã hội",
+            "Tăng năng suất lao động tối đa",
+            "Tăng quy mô tư bản cá biệt thông qua tích lũy giá trị thặng dư",
+            "Vay vốn ngân hàng"
+        ],
+        "ans": "C"
+    },
+    {
+        "id": 86,
+        "q": "[Câu 86] Tập trung tư bản là quá trình tăng quy mô tư bản cá biệt bằng cách:",
+        "arr": [
+            "Tích lũy giá trị thặng dư",
+            "Kết hợp nhiều tư bản cá biệt có sẵn trong xã hội thành một tư bản lớn hơn",
+            "Mở rộng thị trường tiêu thụ",
+            "Sản xuất thêm nhiều hàng hóa độc quyền"
+        ],
+        "ans": "B"
+    },
+    {
+        "id": 87,
+        "q": "[Câu 87] Chu chuyển của tư bản phản ánh điều gì?",
+        "arr": [
+            "Tốc độ tuần hoàn của tư bản nhanh hay chậm",
+            "Sự dịch chuyển của tư bản trong không gian",
+            "Sự thay đổi hình thái của tư bản",
+            "Quy mô tích lũy tư bản"
+        ],
+        "ans": "A"
+    },
+    {
+        "id": 88,
+        "q": "[Câu 88] Căn cứ để phân chia tư bản thành tư bản cố định và tư bản lưu động là:",
+        "arr": [
+            "Vai trò tạo ra giá trị thặng dư",
+            "Phương thức chuyển dịch giá trị của các bộ phận tư bản vào sản phẩm trong quá trình sản xuất",
+            "Tốc độ vận động nhanh hay chậm",
+            "Nguồn gốc hình thành của vốn"
+        ],
+        "ans": "B"
+    },
+    {
+        "id": 89,
+        "q": "[Câu 89] Chi phí sản xuất tư bản chủ nghĩa (k) gồm những bộ phận nào?",
+        "arr": [
+            "c + v + m",
+            "c + v",
+            "v + m",
+            "c + m"
+        ],
+        "ans": "B"
+    },
+    {
+        "id": 90,
+        "q": "[Câu 90] Lợi nhuận (p) là hình thái chuyển hóa của:",
+        "arr": [
+            "Tư bản bất biến",
+            "Tư bản khả biến",
+            "Giá trị thặng dư",
+            "Chi phí sản xuất"
+        ],
+        "ans": "C"
+    },
+    {
+        "id": 91,
+        "q": "[Câu 91] Tỷ suất lợi nhuận (p') tính theo công thức nào?",
+        "arr": [
+            "(m / c) * 100%",
+            "(m / v) * 100%",
+            "[m / (c + v)] * 100%",
+            "(p / m) * 100%"
+        ],
+        "ans": "C"
+    },
+    {
+        "id": 92,
+        "q": "[Câu 92] Cạnh tranh giữa các ngành dẫn đến hiện tượng gì?",
+        "arr": [
+            "Hình thành giá trị xã hội của hàng hóa",
+            "Hình thành tỷ suất lợi nhuận bình quân và giá cả sản xuất",
+            "Phá sản toàn bộ các doanh nghiệp nhỏ",
+            "Sự độc quyền hoàn toàn"
+        ],
+        "ans": "B"
+    },
+    {
+        "id": 93,
+        "q": "[Câu 93] Bản chất của lợi tức (z) là gì?",
+        "arr": [
+            "Một phần lợi nhuận bình quân mà nhà tư bản đi vay phải trả cho nhà tư bản cho vay",
+            "Toàn bộ giá trị thặng dư",
+            "Tiền thưởng của ngân hàng",
+            "Khoản thu nhập hợp pháp từ lao động của chủ ngân hàng"
+        ],
+        "ans": "A"
+    },
+    {
+        "id": 94,
+        "q": "[Câu 94] Địa tô tư bản chủ nghĩa phản ánh quan hệ giữa mấy giai cấp?",
+        "arr": [
+            "2",
+            "3",
+            "4",
+            "1"
+        ],
+        "ans": "B"
+    },
+    {
+        "id": 95,
+        "q": "[Câu 95] Chủ nghĩa tư bản độc quyền hình thành vào thời gian nào?",
+        "arr": [
+            "Cuối thế kỷ XVII - đầu thế kỷ XVIII",
+            "Cuối thế kỷ XIX - đầu thế kỷ XX",
+            "Sau Chiến tranh thế giới thứ hai",
+            "Giữa thế kỷ XX"
+        ],
+        "ans": "B"
+    },
+    {
+        "id": 96,
+        "q": "[Câu 96] Nguyên nhân căn bản dẫn đến chủ nghĩa tư bản độc quyền là:",
+        "arr": [
+            "Sự phát triển của lực lượng sản xuất và tập trung sản xuất",
+            "Do ý muốn chủ quan của các nhà tư bản lớn",
+            "Do chính sách thúc đẩy của nhà nước tư sản",
+            "Sự khan hiếm tài nguyên thiên nhiên"
+        ],
+        "ans": "A"
+    },
+    {
+        "id": 97,
+        "q": "[Câu 97] Các hình thức tổ chức độc quyền phát triển từ thấp đến cao gồm:",
+        "arr": [
+            "Cartel - Syndicate - Trust - Consortium",
+            "Trust - Cartel - Syndicate - Consortium",
+            "Syndicate - Cartel - Trust - Consortium",
+            "Consortium - Cartel - Syndicate - Trust"
+        ],
+        "ans": "A"
+    },
+    {
+        "id": 98,
+        "q": "[Câu 98] Xuất khẩu tư bản là gì?",
+        "arr": [
+            "Xuất khẩu hàng hóa ra nước ngoài nhằm kiếm lợi nhuận",
+            "Mang tư bản ra nước ngoài đầu tư sản xuất nhằm chiếm đoạt giá trị thặng dư ở nước sở tại",
+            "Cho nước ngoài vay tiền với lãi suất thấp",
+            "Nhập khẩu công nghệ cao từ nước ngoài"
+        ],
+        "ans": "B"
+    },
+    {
+        "id": 99,
+        "q": "[Câu 99] Bản chất của chủ nghĩa tư bản độc quyền nhà nước là:",
+        "arr": [
+            "Sự kết hợp sức mạnh của các tổ chức độc quyền tư nhân với sức mạnh của nhà nước tư sản",
+            "Nhà nước làm chủ toàn bộ nền kinh tế",
+            "Xóa bỏ hoàn toàn sở hữu tư nhân độc quyền",
+            "Sự chuyển hóa hoàn toàn sang chủ nghĩa xã hội"
+        ],
+        "ans": "A"
+    },
+    {
+        "id": 100,
+        "q": "[Câu 100] Cơ chế điều tiết kinh tế của chủ nghĩa tư bản độc quyền nhà nước là sự kết hợp giữa:",
+        "arr": [
+            "Cơ chế thị trường và sự can thiệp của nhà nước",
+            "Quy luật tự nhiên và quy luật xã hội",
+            "Kế hoạch hóa tập trung và mệnh lệnh hành chính",
+            "Độc quyền tư nhân và tự do cạnh tranh tuyệt đối"
+        ],
+        "ans": "A"
+    },
+    {
+        "id": 101,
+        "q": "[Câu 101] Hàng hóa là gì?",
+        "arr": [
+            "Sản phẩm của lao động nhằm thỏa mãn nhu cầu con người thông qua mua bán",
+            "Sản phẩm của lao động dùng cho người sản xuất tiêu dùng",
+            "Sản phẩm của tự nhiên phục vụ con người",
+            "Bất kỳ vật gì có ích cho đời sống"
+        ],
+        "ans": "A"
+    },
+    {
+        "id": 102,
+        "q": "[Câu 102] Hai thuộc tính của hàng hóa là gì?",
+        "arr": [
+            "Giá trị sử dụng và giá trị trao đổi",
+            "Giá trị sử dụng và giá trị",
+            "Giá trị và giá trị trao đổi",
+            "Giá trị trao đổi và tiền tệ"
+        ],
+        "ans": "B"
+    },
+    {
+        "id": 103,
+        "q": "[Câu 103] Lao động cụ thể là gì?",
+        "arr": [
+            "Lao động tạo ra giá trị của hàng hóa",
+            "Lao động có ích dưới một hình thức cụ thể của một nghề nghiệp chuyên môn nhất định",
+            "Lao động hao phí cơ bắp và thần kinh nói chung của con người",
+            "Lao động của người thợ thủ công xưa"
+        ],
+        "ans": "B"
+    },
+    {
+        "id": 104,
+        "q": "[Câu 104] Lao động trừu tượng tạo ra thuộc tính nào của hàng hóa?",
+        "arr": [
+            "Giá trị sử dụng",
+            "Giá trị trao đổi",
+            "Giá trị hàng hóa",
+            "Giá trị thặng dư"
+        ],
+        "ans": "C"
+    },
+    {
+        "id": 105,
+        "q": "[Câu 105] Lượng giá trị của hàng hóa được đo lường bằng gì?",
+        "arr": [
+            "Thời gian lao động cá biệt",
+            "Thời gian lao động xã hội cần thiết",
+            "Chi phí sản xuất bằng tiền",
+            "Mức độ khan hiếm trên thị trường"
+        ],
+        "ans": "B"
+    },
+    {
+        "id": 106,
+        "q": "[Câu 106] Khi năng suất lao động tăng lên thì:",
+        "arr": [
+            "Lượng giá trị của một đơn vị hàng hóa giảm xuống",
+            "Lượng giá trị của một đơn vị hàng hóa tăng lên",
+            "Tổng giá trị hàng hóa tăng lên",
+            "Lượng giá trị của một đơn vị hàng hóa không đổi"
+        ],
+        "ans": "A"
+    },
+    {
+        "id": 107,
+        "q": "[Câu 107] Khi cường độ lao động tăng lên thì:",
+        "arr": [
+            "Lượng giá trị của một đơn vị hàng hóa giảm xuống",
+            "Lượng giá trị của một đơn vị hàng hóa tăng lên",
+            "Tổng giá trị hàng hóa tăng lên nhưng lượng giá trị 1 đơn vị không đổi",
+            "Tổng giá trị hàng hóa giảm"
+        ],
+        "ans": "C"
+    },
+    {
+        "id": 108,
+        "q": "[Câu 108] Tiền tệ có mấy chức năng cơ bản theo lý luận của C.Mác?",
+        "arr": [
+            "3",
+            "4",
+            "5",
+            "6"
+        ],
+        "ans": "C"
+    },
+    {
+        "id": 109,
+        "q": "[Câu 109] Quy luật giá trị là quy luật kinh tế căn bản của:",
+        "arr": [
+            "Sản xuất tự cung tự cấp",
+            "Sản xuất hàng hóa",
+            "Chủ nghĩa tư bản",
+            "Chủ nghĩa xã hội"
+        ],
+        "ans": "B"
+    },
+    {
+        "id": 110,
+        "q": "[Câu 110] Nội dung cơ bản của quy luật giá trị là gì?",
+        "arr": [
+            "Sản xuất và trao đổi hàng hóa phải dựa trên cơ sở hao phí lao động xã hội cần thiết",
+            "Sản xuất hàng hóa càng nhiều càng tốt",
+            "Trao đổi hàng hóa phải theo giá cả thị trường tự do",
+            "Mua rẻ bán đắt"
+        ],
+        "ans": "A"
+    },
+    {
+        "id": 111,
+        "q": "[Câu 111] Công thức chung của tư bản là gì?",
+        "arr": [
+            "H - T - H'",
+            "T - H - T'",
+            "T - T'",
+            "H - H'"
+        ],
+        "ans": "B"
+    },
+    {
+        "id": 112,
+        "q": "[Câu 112] Mâu thuẫn của công thức chung của tư bản là gì?",
+        "arr": [
+            "Giá trị thặng dư vừa sinh ra trong lưu thông, vừa không sinh ra trong lưu thông",
+            "Hàng hóa và tiền tệ mâu thuẫn nhau",
+            "Người mua và người bán mâu thuẫn nhau",
+            "Tư bản bất biến và tư bản khả biến mâu thuẫn nhau"
+        ],
+        "ans": "A"
+    },
+    {
+        "id": 113,
+        "q": "[Câu 113] Sức lao động trở thành hàng hóa một cách phổ biến khi nào?",
+        "arr": [
+            "Trong xã hội chiếm hữu nô lệ",
+            "Trong xã hội phong kiến",
+            "Trong xã hội tư bản chủ nghĩa",
+            "Trong xã hội xã hội chủ nghĩa"
+        ],
+        "ans": "C"
+    },
+    {
+        "id": 114,
+        "q": "[Câu 114] Hai điều kiện để sức lao động trở thành hàng hóa là gì?",
+        "arr": [
+            "Người lao động được tự do về thân thể và không có tư liệu sản xuất",
+            "Người lao động có tay nghề cao và cần tiền",
+            "Xã hội phân công lao động sâu sắc và phát triển thương mại",
+            "Tư liệu sản xuất dồi dào và thị trường mở rộng"
+        ],
+        "ans": "A"
+    },
+    {
+        "id": 115,
+        "q": "[Câu 115] Giá trị sử dụng của hàng hóa sức lao động có đặc tính gì đặc biệt?",
+        "arr": [
+            "Càng dùng càng hao mòn đi",
+            "Khi sử dụng nó tạo ra giá trị mới lớn hơn giá trị của bản thân nó",
+            "Không thể đo lường được",
+            "Giống như các loại hàng hóa thông thường khác"
+        ],
+        "ans": "B"
+    },
+    {
+        "id": 116,
+        "q": "[Câu 116] Giá trị thặng dư (m) là gì?",
+        "arr": [
+            "Phần giá trị do lao động quá khứ tạo ra",
+            "Phần giá trị mới dôi ra ngoài giá trị sức lao động do công nhân làm thuê tạo ra và bị nhà tư bản chiếm đoạt",
+            "Phần lợi nhuận của doanh nghiệp thu được sau khi trừ chi phí",
+            "Tiền thưởng nhà tư bản dành cho công nhân"
+        ],
+        "ans": "B"
+    },
+    {
+        "id": 117,
+        "q": "[Câu 117] Ngày lao động của công nhân được chia thành hai phần là:",
+        "arr": [
+            "Thời gian lao động cần thiết và thời gian lao động thặng dư",
+            "Thời gian lao động chân tay và thời gian lao động trí óc",
+            "Thời gian sản xuất và thời gian lưu thông",
+            "Thời gian làm việc và thời gian nghỉ ngơi"
+        ],
+        "ans": "A"
+    },
+    {
+        "id": 118,
+        "q": "[Câu 118] Tư bản bất biến (c) là bộ phận tư bản:",
+        "arr": [
+            "Biến đổi về lượng trong quá trình sản xuất",
+            "Không tái hiện lại trong sản phẩm",
+            "Giá trị của nó được bảo tồn và chuyển nguyên vẹn vào sản phẩm mới thông qua lao động cụ thể",
+            "Dùng để mua sức lao động"
+        ],
+        "ans": "C"
+    },
+    {
+        "id": 119,
+        "q": "[Câu 119] Tư bản khả biến (v) là bộ phận tư bản:",
+        "arr": [
+            "Giá trị của nó chuyển nguyên vẹn vào sản phẩm mới",
+            "Dùng để mua máy móc thiết bị",
+            "Dùng để mua sức lao động và tăng lên về lượng thông qua quá trình sản xuất",
+            "Không thay đổi giá trị"
+        ],
+        "ans": "C"
+    },
+    {
+        "id": 120,
+        "q": "[Câu 120] Căn cứ để phân chia tư bản thành tư bản bất biến và tư bản khả biến là gì?",
+        "arr": [
+            "Tốc độ chu chuyển của tư bản",
+            "Vai trò của các bộ phận tư bản trong việc tạo ra giá trị thặng dư",
+            "Hình thái tồn tại của tư bản bằng tiền hay bằng vật",
+            "Phương thức chuyển giá trị vào sản phẩm"
+        ],
+        "ans": "B"
+    },
+    {
+        "id": 121,
+        "q": "[Câu 121] Tỷ suất giá trị thặng dư (m') phản ánh điều gì?",
+        "arr": [
+            "Quy mô bóc lột của nhà tư bản",
+            "Trình độ bóc lột của nhà tư bản đối với công nhân làm thuê",
+            "Hiệu quả sử dụng máy móc",
+            "Tốc độ quay vòng của vốn tư bản"
+        ],
+        "ans": "B"
+    },
+    {
+        "id": 122,
+        "q": "[Câu 122] Khối lượng giá trị thặng dư (M) phản ánh điều gì?",
+        "arr": [
+            "Trình độ bóc lột của tư bản",
+            "Quy mô bóc lột của tư bản",
+            "Tỷ lệ lợi nhuận của doanh nghiệp",
+            "Khả năng cạnh tranh của doanh nghiệp"
+        ],
+        "ans": "B"
+    },
+    {
+        "id": 123,
+        "q": "[Câu 123] Có mấy phương pháp sản xuất giá trị thặng dư chủ yếu?",
+        "arr": [
+            "2",
+            "3",
+            "4",
+            "5"
+        ],
+        "ans": "A"
+    },
+    {
+        "id": 124,
+        "q": "[Câu 124] Sản xuất giá trị thặng dư tuyệt đối là phương pháp:",
+        "arr": [
+            "Kéo dài ngày lao động vượt quá thời gian lao động cần thiết trong khi năng suất lao động không đổi",
+            "Tăng năng suất lao động xã hội",
+            "Rút ngắn thời gian lao động cần thiết",
+            "Ứng dụng máy móc hiện đại"
+        ],
+        "ans": "A"
+    },
+    {
+        "id": 125,
+        "q": "[Câu 125] Sản xuất giá trị thặng dư tương đối là phương pháp:",
+        "arr": [
+            "Kéo dài ngày lao động",
+            "Rút ngắn thời gian lao động cần thiết dựa trên cơ sở tăng năng suất lao động xã hội",
+            "Tăng cường độ lao động của công nhân",
+            "Sử dụng nguyên liệu rẻ tiền"
+        ],
+        "ans": "B"
+    },
+    {
+        "id": 126,
+        "q": "[Câu 126] Giá trị thặng dư siêu ngạch là hình thức biến tướng của:",
+        "arr": [
+            "Giá trị thặng dư tuyệt đối",
+            "Giá trị thặng dư tương đối",
+            "Lợi nhuận thương nghiệp",
+            "Lợi tức cho vay"
+        ],
+        "ans": "B"
+    },
+    {
+        "id": 127,
+        "q": "[Câu 127] Bản chất của tích lũy tư bản là gì?",
+        "arr": [
+            "Tiết kiệm tiền của nhà tư bản",
+            "Biến một phần giá trị thặng dư thành tư bản phụ thêm để mở rộng sản xuất",
+            "Gom góp tư liệu sản xuất từ người nghèo",
+            "Sự hỗ trợ vốn của nhà nước tư sản"
+        ],
+        "ans": "B"
+    },
+    {
+        "id": 128,
+        "q": "[Câu 128] Động lực cơ bản thúc đẩy tích lũy tư bản là gì?",
+        "arr": [
+            "Lòng vị tha của nhà tư bản",
+            "Quy luật giá trị thặng dư và quy luật cạnh tranh",
+            "Sự định hướng của nhà nước",
+            "Nhu cầu tiêu dùng của xã hội"
+        ],
+        "ans": "B"
+    },
+    {
+        "id": 129,
+        "q": "[Câu 129] Cấu tạo hữu cơ của tư bản (c/v) phản ánh quan hệ gì?",
+        "arr": [
+            "Quan hệ thuần túy về giá trị giữa tiền và hàng",
+            "Cấu tạo kỹ thuật được phản ánh qua cấu tạo giá trị của tư bản",
+            "Mối quan hệ giữa máy móc và nguyên liệu",
+            "Mối quan hệ giữa tiền lương và tiền thưởng"
+        ],
+        "ans": "B"
+    },
+    {
+        "id": 130,
+        "q": "[Câu 130] Tích tụ tư bản là quá trình tăng quy mô tư bản cá biệt bằng cách:",
+        "arr": [
+            "Hợp nhất các tư bản cá biệt có sẵn trong xã hội",
+            "Tăng năng suất lao động tối đa",
+            "Tăng quy mô tư bản cá biệt thông qua tích lũy giá trị thặng dư",
+            "Vay vốn ngân hàng"
+        ],
+        "ans": "C"
+    },
+    {
+        "id": 131,
+        "q": "[Câu 131] Tập trung tư bản là quá trình tăng quy mô tư bản cá biệt bằng cách:",
+        "arr": [
+            "Tích lũy giá trị thặng dư",
+            "Kết hợp nhiều tư bản cá biệt có sẵn trong xã hội thành một tư bản lớn hơn",
+            "Mở rộng thị trường tiêu thụ",
+            "Sản xuất thêm nhiều hàng hóa độc quyền"
+        ],
+        "ans": "B"
+    },
+    {
+        "id": 132,
+        "q": "[Câu 132] Chu chuyển của tư bản phản ánh điều gì?",
+        "arr": [
+            "Tốc độ tuần hoàn của tư bản nhanh hay chậm",
+            "Sự dịch chuyển của tư bản trong không gian",
+            "Sự thay đổi hình thái của tư bản",
+            "Quy mô tích lũy tư bản"
+        ],
+        "ans": "A"
+    },
+    {
+        "id": 133,
+        "q": "[Câu 133] Căn cứ để phân chia tư bản thành tư bản cố định và tư bản lưu động là:",
+        "arr": [
+            "Vai trò tạo ra giá trị thặng dư",
+            "Phương thức chuyển dịch giá trị của các bộ phận tư bản vào sản phẩm trong quá trình sản xuất",
+            "Tốc độ vận động nhanh hay chậm",
+            "Nguồn gốc hình thành của vốn"
+        ],
+        "ans": "B"
+    },
+    {
+        "id": 134,
+        "q": "[Câu 134] Chi phí sản xuất tư bản chủ nghĩa (k) gồm những bộ phận nào?",
+        "arr": [
+            "c + v + m",
+            "c + v",
+            "v + m",
+            "c + m"
+        ],
+        "ans": "B"
+    },
+    {
+        "id": 135,
+        "q": "[Câu 135] Lợi nhuận (p) là hình thái chuyển hóa của:",
+        "arr": [
+            "Tư bản bất biến",
+            "Tư bản khả biến",
+            "Giá trị thặng dư",
+            "Chi phí sản xuất"
+        ],
+        "ans": "C"
+    },
+    {
+        "id": 136,
+        "q": "[Câu 136] Tỷ suất lợi nhuận (p') tính theo công thức nào?",
+        "arr": [
+            "(m / c) * 100%",
+            "(m / v) * 100%",
+            "[m / (c + v)] * 100%",
+            "(p / m) * 100%"
+        ],
+        "ans": "C"
+    },
+    {
+        "id": 137,
+        "q": "[Câu 137] Cạnh tranh giữa các ngành dẫn đến hiện tượng gì?",
+        "arr": [
+            "Hình thành giá trị xã hội của hàng hóa",
+            "Hình thành tỷ suất lợi nhuận bình quân và giá cả sản xuất",
+            "Phá sản toàn bộ các doanh nghiệp nhỏ",
+            "Sự độc quyền hoàn toàn"
+        ],
+        "ans": "B"
+    },
+    {
+        "id": 138,
+        "q": "[Câu 138] Bản chất của lợi tức (z) là gì?",
+        "arr": [
+            "Một phần lợi nhuận bình quân mà nhà tư bản đi vay phải trả cho nhà tư bản cho vay",
+            "Toàn bộ giá trị thặng dư",
+            "Tiền thưởng của ngân hàng",
+            "Khoản thu nhập hợp pháp từ lao động của chủ ngân hàng"
+        ],
+        "ans": "A"
+    },
+    {
+        "id": 139,
+        "q": "[Câu 139] Địa tô tư bản chủ nghĩa phản ánh quan hệ giữa mấy giai cấp?",
+        "arr": [
+            "2",
+            "3",
+            "4",
+            "1"
+        ],
+        "ans": "B"
+    },
+    {
+        "id": 140,
+        "q": "[Câu 140] Chủ nghĩa tư bản độc quyền hình thành vào thời gian nào?",
+        "arr": [
+            "Cuối thế kỷ XVII - đầu thế kỷ XVIII",
+            "Cuối thế kỷ XIX - đầu thế kỷ XX",
+            "Sau Chiến tranh thế giới thứ hai",
+            "Giữa thế kỷ XX"
+        ],
+        "ans": "B"
+    },
+    {
+        "id": 141,
+        "q": "[Câu 141] Nguyên nhân căn bản dẫn đến chủ nghĩa tư bản độc quyền là:",
+        "arr": [
+            "Sự phát triển của lực lượng sản xuất và tập trung sản xuất",
+            "Do ý muốn chủ quan của các nhà tư bản lớn",
+            "Do chính sách thúc đẩy của nhà nước tư sản",
+            "Sự khan hiếm tài nguyên thiên nhiên"
+        ],
+        "ans": "A"
+    },
+    {
+        "id": 142,
+        "q": "[Câu 142] Các hình thức tổ chức độc quyền phát triển từ thấp đến cao gồm:",
+        "arr": [
+            "Cartel - Syndicate - Trust - Consortium",
+            "Trust - Cartel - Syndicate - Consortium",
+            "Syndicate - Cartel - Trust - Consortium",
+            "Consortium - Cartel - Syndicate - Trust"
+        ],
+        "ans": "A"
+    },
+    {
+        "id": 143,
+        "q": "[Câu 143] Xuất khẩu tư bản là gì?",
+        "arr": [
+            "Xuất khẩu hàng hóa ra nước ngoài nhằm kiếm lợi nhuận",
+            "Mang tư bản ra nước ngoài đầu tư sản xuất nhằm chiếm đoạt giá trị thặng dư ở nước sở tại",
+            "Cho nước ngoài vay tiền với lãi suất thấp",
+            "Nhập khẩu công nghệ cao từ nước ngoài"
+        ],
+        "ans": "B"
+    },
+    {
+        "id": 144,
+        "q": "[Câu 144] Bản chất của chủ nghĩa tư bản độc quyền nhà nước là:",
+        "arr": [
+            "Sự kết hợp sức mạnh của các tổ chức độc quyền tư nhân với sức mạnh của nhà nước tư sản",
+            "Nhà nước làm chủ toàn bộ nền kinh tế",
+            "Xóa bỏ hoàn toàn sở hữu tư nhân độc quyền",
+            "Sự chuyển hóa hoàn toàn sang chủ nghĩa xã hội"
+        ],
+        "ans": "A"
+    },
+    {
+        "id": 145,
+        "q": "[Câu 145] Cơ chế điều tiết kinh tế của chủ nghĩa tư bản độc quyền nhà nước là sự kết hợp giữa:",
+        "arr": [
+            "Cơ chế thị trường và sự can thiệp của nhà nước",
+            "Quy luật tự nhiên và quy luật xã hội",
+            "Kế hoạch hóa tập trung và mệnh lệnh hành chính",
+            "Độc quyền tư nhân và tự do cạnh tranh tuyệt đối"
+        ],
+        "ans": "A"
+    },
+    {
+        "id": 146,
+        "q": "[Câu 146] Hàng hóa là gì?",
+        "arr": [
+            "Sản phẩm của lao động nhằm thỏa mãn nhu cầu con người thông qua mua bán",
+            "Sản phẩm của lao động dùng cho người sản xuất tiêu dùng",
+            "Sản phẩm của tự nhiên phục vụ con người",
+            "Bất kỳ vật gì có ích cho đời sống"
+        ],
+        "ans": "A"
+    },
+    {
+        "id": 147,
+        "q": "[Câu 147] Hai thuộc tính của hàng hóa là gì?",
+        "arr": [
+            "Giá trị sử dụng và giá trị trao đổi",
+            "Giá trị sử dụng và giá trị",
+            "Giá trị và giá trị trao đổi",
+            "Giá trị trao đổi và tiền tệ"
+        ],
+        "ans": "B"
+    },
+    {
+        "id": 148,
+        "q": "[Câu 148] Lao động cụ thể là gì?",
+        "arr": [
+            "Lao động tạo ra giá trị của hàng hóa",
+            "Lao động có ích dưới một hình thức cụ thể của một nghề nghiệp chuyên môn nhất định",
+            "Lao động hao phí cơ bắp và thần kinh nói chung của con người",
+            "Lao động của người thợ thủ công xưa"
+        ],
+        "ans": "B"
+    },
+    {
+        "id": 149,
+        "q": "[Câu 149] Lao động trừu tượng tạo ra thuộc tính nào của hàng hóa?",
+        "arr": [
+            "Giá trị sử dụng",
+            "Giá trị trao đổi",
+            "Giá trị hàng hóa",
+            "Giá trị thặng dư"
+        ],
+        "ans": "C"
+    },
+    {
+        "id": 150,
+        "q": "[Câu 150] Lượng giá trị của hàng hóa được đo lường bằng gì?",
+        "arr": [
+            "Thời gian lao động cá biệt",
+            "Thời gian lao động xã hội cần thiết",
+            "Chi phí sản xuất bằng tiền",
+            "Mức độ khan hiếm trên thị trường"
+        ],
+        "ans": "B"
+    },
+    {
+        "id": 151,
+        "q": "[Câu 151] Khi năng suất lao động tăng lên thì:",
+        "arr": [
+            "Lượng giá trị của một đơn vị hàng hóa giảm xuống",
+            "Lượng giá trị của một đơn vị hàng hóa tăng lên",
+            "Tổng giá trị hàng hóa tăng lên",
+            "Lượng giá trị của một đơn vị hàng hóa không đổi"
+        ],
+        "ans": "A"
+    },
+    {
+        "id": 152,
+        "q": "[Câu 152] Khi cường độ lao động tăng lên thì:",
+        "arr": [
+            "Lượng giá trị của một đơn vị hàng hóa giảm xuống",
+            "Lượng giá trị của một đơn vị hàng hóa tăng lên",
+            "Tổng giá trị hàng hóa tăng lên nhưng lượng giá trị 1 đơn vị không đổi",
+            "Tổng giá trị hàng hóa giảm"
+        ],
+        "ans": "C"
+    },
+    {
+        "id": 153,
+        "q": "[Câu 153] Tiền tệ có mấy chức năng cơ bản theo lý luận của C.Mác?",
+        "arr": [
+            "3",
+            "4",
+            "5",
+            "6"
+        ],
+        "ans": "C"
+    },
+    {
+        "id": 154,
+        "q": "[Câu 154] Quy luật giá trị là quy luật kinh tế căn bản của:",
+        "arr": [
+            "Sản xuất tự cung tự cấp",
+            "Sản xuất hàng hóa",
+            "Chủ nghĩa tư bản",
+            "Chủ nghĩa xã hội"
+        ],
+        "ans": "B"
+    },
+    {
+        "id": 155,
+        "q": "[Câu 155] Nội dung cơ bản của quy luật giá trị là gì?",
+        "arr": [
+            "Sản xuất và trao đổi hàng hóa phải dựa trên cơ sở hao phí lao động xã hội cần thiết",
+            "Sản xuất hàng hóa càng nhiều càng tốt",
+            "Trao đổi hàng hóa phải theo giá cả thị trường tự do",
+            "Mua rẻ bán đắt"
+        ],
+        "ans": "A"
+    },
+    {
+        "id": 156,
+        "q": "[Câu 156] Công thức chung của tư bản là gì?",
+        "arr": [
+            "H - T - H'",
+            "T - H - T'",
+            "T - T'",
+            "H - H'"
+        ],
+        "ans": "B"
+    },
+    {
+        "id": 157,
+        "q": "[Câu 157] Mâu thuẫn của công thức chung của tư bản là gì?",
+        "arr": [
+            "Giá trị thặng dư vừa sinh ra trong lưu thông, vừa không sinh ra trong lưu thông",
+            "Hàng hóa và tiền tệ mâu thuẫn nhau",
+            "Người mua và người bán mâu thuẫn nhau",
+            "Tư bản bất biến và tư bản khả biến mâu thuẫn nhau"
+        ],
+        "ans": "A"
+    },
+    {
+        "id": 158,
+        "q": "[Câu 158] Sức lao động trở thành hàng hóa một cách phổ biến khi nào?",
+        "arr": [
+            "Trong xã hội chiếm hữu nô lệ",
+            "Trong xã hội phong kiến",
+            "Trong xã hội tư bản chủ nghĩa",
+            "Trong xã hội xã hội chủ nghĩa"
+        ],
+        "ans": "C"
+    },
+    {
+        "id": 159,
+        "q": "[Câu 159] Hai điều kiện để sức lao động trở thành hàng hóa là gì?",
+        "arr": [
+            "Người lao động được tự do về thân thể và không có tư liệu sản xuất",
+            "Người lao động có tay nghề cao và cần tiền",
+            "Xã hội phân công lao động sâu sắc và phát triển thương mại",
+            "Tư liệu sản xuất dồi dào và thị trường mở rộng"
+        ],
+        "ans": "A"
+    },
+    {
+        "id": 160,
+        "q": "[Câu 160] Giá trị sử dụng của hàng hóa sức lao động có đặc tính gì đặc biệt?",
+        "arr": [
+            "Càng dùng càng hao mòn đi",
+            "Khi sử dụng nó tạo ra giá trị mới lớn hơn giá trị của bản thân nó",
+            "Không thể đo lường được",
+            "Giống như các loại hàng hóa thông thường khác"
+        ],
+        "ans": "B"
+    },
+    {
+        "id": 161,
+        "q": "[Câu 161] Giá trị thặng dư (m) là gì?",
+        "arr": [
+            "Phần giá trị do lao động quá khứ tạo ra",
+            "Phần giá trị mới dôi ra ngoài giá trị sức lao động do công nhân làm thuê tạo ra và bị nhà tư bản chiếm đoạt",
+            "Phần lợi nhuận của doanh nghiệp thu được sau khi trừ chi phí",
+            "Tiền thưởng nhà tư bản dành cho công nhân"
+        ],
+        "ans": "B"
+    },
+    {
+        "id": 162,
+        "q": "[Câu 162] Ngày lao động của công nhân được chia thành hai phần là:",
+        "arr": [
+            "Thời gian lao động cần thiết và thời gian lao động thặng dư",
+            "Thời gian lao động chân tay và thời gian lao động trí óc",
+            "Thời gian sản xuất và thời gian lưu thông",
+            "Thời gian làm việc và thời gian nghỉ ngơi"
+        ],
+        "ans": "A"
+    },
+    {
+        "id": 163,
+        "q": "[Câu 163] Tư bản bất biến (c) là bộ phận tư bản:",
+        "arr": [
+            "Biến đổi về lượng trong quá trình sản xuất",
+            "Không tái hiện lại trong sản phẩm",
+            "Giá trị của nó được bảo tồn và chuyển nguyên vẹn vào sản phẩm mới thông qua lao động cụ thể",
+            "Dùng để mua sức lao động"
+        ],
+        "ans": "C"
+    },
+    {
+        "id": 164,
+        "q": "[Câu 164] Tư bản khả biến (v) là bộ phận tư bản:",
+        "arr": [
+            "Giá trị của nó chuyển nguyên vẹn vào sản phẩm mới",
+            "Dùng để mua máy móc thiết bị",
+            "Dùng để mua sức lao động và tăng lên về lượng thông qua quá trình sản xuất",
+            "Không thay đổi giá trị"
+        ],
+        "ans": "C"
+    },
+    {
+        "id": 165,
+        "q": "[Câu 165] Căn cứ để phân chia tư bản thành tư bản bất biến và tư bản khả biến là gì?",
+        "arr": [
+            "Tốc độ chu chuyển của tư bản",
+            "Vai trò của các bộ phận tư bản trong việc tạo ra giá trị thặng dư",
+            "Hình thái tồn tại của tư bản bằng tiền hay bằng vật",
+            "Phương thức chuyển giá trị vào sản phẩm"
+        ],
+        "ans": "B"
+    },
+    {
+        "id": 166,
+        "q": "[Câu 166] Tỷ suất giá trị thặng dư (m') phản ánh điều gì?",
+        "arr": [
+            "Quy mô bóc lột của nhà tư bản",
+            "Trình độ bóc lột của nhà tư bản đối với công nhân làm thuê",
+            "Hiệu quả sử dụng máy móc",
+            "Tốc độ quay vòng của vốn tư bản"
+        ],
+        "ans": "B"
+    },
+    {
+        "id": 167,
+        "q": "[Câu 167] Khối lượng giá trị thặng dư (M) phản ánh điều gì?",
+        "arr": [
+            "Trình độ bóc lột của tư bản",
+            "Quy mô bóc lột của tư bản",
+            "Tỷ lệ lợi nhuận của doanh nghiệp",
+            "Khả năng cạnh tranh của doanh nghiệp"
+        ],
+        "ans": "B"
+    },
+    {
+        "id": 168,
+        "q": "[Câu 168] Có mấy phương pháp sản xuất giá trị thặng dư chủ yếu?",
+        "arr": [
+            "2",
+            "3",
+            "4",
+            "5"
+        ],
+        "ans": "A"
+    },
+    {
+        "id": 169,
+        "q": "[Câu 169] Sản xuất giá trị thặng dư tuyệt đối là phương pháp:",
+        "arr": [
+            "Kéo dài ngày lao động vượt quá thời gian lao động cần thiết trong khi năng suất lao động không đổi",
+            "Tăng năng suất lao động xã hội",
+            "Rút ngắn thời gian lao động cần thiết",
+            "Ứng dụng máy móc hiện đại"
+        ],
+        "ans": "A"
+    },
+    {
+        "id": 170,
+        "q": "[Câu 170] Sản xuất giá trị thặng dư tương đối là phương pháp:",
+        "arr": [
+            "Kéo dài ngày lao động",
+            "Rút ngắn thời gian lao động cần thiết dựa trên cơ sở tăng năng suất lao động xã hội",
+            "Tăng cường độ lao động của công nhân",
+            "Sử dụng nguyên liệu rẻ tiền"
+        ],
+        "ans": "B"
+    },
+    {
+        "id": 171,
+        "q": "[Câu 171] Giá trị thặng dư siêu ngạch là hình thức biến tướng của:",
+        "arr": [
+            "Giá trị thặng dư tuyệt đối",
+            "Giá trị thặng dư tương đối",
+            "Lợi nhuận thương nghiệp",
+            "Lợi tức cho vay"
+        ],
+        "ans": "B"
+    },
+    {
+        "id": 172,
+        "q": "[Câu 172] Bản chất của tích lũy tư bản là gì?",
+        "arr": [
+            "Tiết kiệm tiền của nhà tư bản",
+            "Biến một phần giá trị thặng dư thành tư bản phụ thêm để mở rộng sản xuất",
+            "Gom góp tư liệu sản xuất từ người nghèo",
+            "Sự hỗ trợ vốn của nhà nước tư sản"
+        ],
+        "ans": "B"
+    },
+    {
+        "id": 173,
+        "q": "[Câu 173] Động lực cơ bản thúc đẩy tích lũy tư bản là gì?",
+        "arr": [
+            "Lòng vị tha của nhà tư bản",
+            "Quy luật giá trị thặng dư và quy luật cạnh tranh",
+            "Sự định hướng của nhà nước",
+            "Nhu cầu tiêu dùng của xã hội"
+        ],
+        "ans": "B"
+    },
+    {
+        "id": 174,
+        "q": "[Câu 174] Cấu tạo hữu cơ của tư bản (c/v) phản ánh quan hệ gì?",
+        "arr": [
+            "Quan hệ thuần túy về giá trị giữa tiền và hàng",
+            "Cấu tạo kỹ thuật được phản ánh qua cấu tạo giá trị của tư bản",
+            "Mối quan hệ giữa máy móc và nguyên liệu",
+            "Mối quan hệ giữa tiền lương và tiền thưởng"
+        ],
+        "ans": "B"
+    },
+    {
+        "id": 175,
+        "q": "[Câu 175] Tích tụ tư bản là quá trình tăng quy mô tư bản cá biệt bằng cách:",
+        "arr": [
+            "Hợp nhất các tư bản cá biệt có sẵn trong xã hội",
+            "Tăng năng suất lao động tối đa",
+            "Tăng quy mô tư bản cá biệt thông qua tích lũy giá trị thặng dư",
+            "Vay vốn ngân hàng"
+        ],
+        "ans": "C"
+    },
+    {
+        "id": 176,
+        "q": "[Câu 176] Tập trung tư bản là quá trình tăng quy mô tư bản cá biệt bằng cách:",
+        "arr": [
+            "Tích lũy giá trị thặng dư",
+            "Kết hợp nhiều tư bản cá biệt có sẵn trong xã hội thành một tư bản lớn hơn",
+            "Mở rộng thị trường tiêu thụ",
+            "Sản xuất thêm nhiều hàng hóa độc quyền"
+        ],
+        "ans": "B"
+    },
+    {
+        "id": 177,
+        "q": "[Câu 177] Chu chuyển của tư bản phản ánh điều gì?",
+        "arr": [
+            "Tốc độ tuần hoàn của tư bản nhanh hay chậm",
+            "Sự dịch chuyển của tư bản trong không gian",
+            "Sự thay đổi hình thái của tư bản",
+            "Quy mô tích lũy tư bản"
+        ],
+        "ans": "A"
+    },
+    {
+        "id": 178,
+        "q": "[Câu 178] Căn cứ để phân chia tư bản thành tư bản cố định và tư bản lưu động là:",
+        "arr": [
+            "Vai trò tạo ra giá trị thặng dư",
+            "Phương thức chuyển dịch giá trị của các bộ phận tư bản vào sản phẩm trong quá trình sản xuất",
+            "Tốc độ vận động nhanh hay chậm",
+            "Nguồn gốc hình thành của vốn"
+        ],
+        "ans": "B"
+    },
+    {
+        "id": 179,
+        "q": "[Câu 179] Chi phí sản xuất tư bản chủ nghĩa (k) gồm những bộ phận nào?",
+        "arr": [
+            "c + v + m",
+            "c + v",
+            "v + m",
+            "c + m"
+        ],
+        "ans": "B"
+    },
+    {
+        "id": 180,
+        "q": "[Câu 180] Lợi nhuận (p) là hình thái chuyển hóa của:",
+        "arr": [
+            "Tư bản bất biến",
+            "Tư bản khả biến",
+            "Giá trị thặng dư",
+            "Chi phí sản xuất"
+        ],
+        "ans": "C"
+    },
+    {
+        "id": 181,
+        "q": "[Câu 181] Tỷ suất lợi nhuận (p') tính theo công thức nào?",
+        "arr": [
+            "(m / c) * 100%",
+            "(m / v) * 100%",
+            "[m / (c + v)] * 100%",
+            "(p / m) * 100%"
+        ],
+        "ans": "C"
+    },
+    {
+        "id": 182,
+        "q": "[Câu 182] Cạnh tranh giữa các ngành dẫn đến hiện tượng gì?",
+        "arr": [
+            "Hình thành giá trị xã hội của hàng hóa",
+            "Hình thành tỷ suất lợi nhuận bình quân và giá cả sản xuất",
+            "Phá sản toàn bộ các doanh nghiệp nhỏ",
+            "Sự độc quyền hoàn toàn"
+        ],
+        "ans": "B"
+    },
+    {
+        "id": 183,
+        "q": "[Câu 183] Bản chất của lợi tức (z) là gì?",
+        "arr": [
+            "Một phần lợi nhuận bình quân mà nhà tư bản đi vay phải trả cho nhà tư bản cho vay",
+            "Toàn bộ giá trị thặng dư",
+            "Tiền thưởng của ngân hàng",
+            "Khoản thu nhập hợp pháp từ lao động của chủ ngân hàng"
+        ],
+        "ans": "A"
+    },
+    {
+        "id": 184,
+        "q": "[Câu 184] Địa tô tư bản chủ nghĩa phản ánh quan hệ giữa mấy giai cấp?",
+        "arr": [
+            "2",
+            "3",
+            "4",
+            "1"
+        ],
+        "ans": "B"
+    },
+    {
+        "id": 185,
+        "q": "[Câu 185] Chủ nghĩa tư bản độc quyền hình thành vào thời gian nào?",
+        "arr": [
+            "Cuối thế kỷ XVII - đầu thế kỷ XVIII",
+            "Cuối thế kỷ XIX - đầu thế kỷ XX",
+            "Sau Chiến tranh thế giới thứ hai",
+            "Giữa thế kỷ XX"
+        ],
+        "ans": "B"
+    },
+    {
+        "id": 186,
+        "q": "[Câu 186] Nguyên nhân căn bản dẫn đến chủ nghĩa tư bản độc quyền là:",
+        "arr": [
+            "Sự phát triển của lực lượng sản xuất và tập trung sản xuất",
+            "Do ý muốn chủ quan của các nhà tư bản lớn",
+            "Do chính sách thúc đẩy của nhà nước tư sản",
+            "Sự khan hiếm tài nguyên thiên nhiên"
+        ],
+        "ans": "A"
+    },
+    {
+        "id": 187,
+        "q": "[Câu 187] Các hình thức tổ chức độc quyền phát triển từ thấp đến cao gồm:",
+        "arr": [
+            "Cartel - Syndicate - Trust - Consortium",
+            "Trust - Cartel - Syndicate - Consortium",
+            "Syndicate - Cartel - Trust - Consortium",
+            "Consortium - Cartel - Syndicate - Trust"
+        ],
+        "ans": "A"
+    },
+    {
+        "id": 188,
+        "q": "[Câu 188] Xuất khẩu tư bản là gì?",
+        "arr": [
+            "Xuất khẩu hàng hóa ra nước ngoài nhằm kiếm lợi nhuận",
+            "Mang tư bản ra nước ngoài đầu tư sản xuất nhằm chiếm đoạt giá trị thặng dư ở nước sở tại",
+            "Cho nước ngoài vay tiền với lãi suất thấp",
+            "Nhập khẩu công nghệ cao từ nước ngoài"
+        ],
+        "ans": "B"
+    },
+    {
+        "id": 189,
+        "q": "[Câu 189] Bản chất của chủ nghĩa tư bản độc quyền nhà nước là:",
+        "arr": [
+            "Sự kết hợp sức mạnh của các tổ chức độc quyền tư nhân với sức mạnh của nhà nước tư sản",
+            "Nhà nước làm chủ toàn bộ nền kinh tế",
+            "Xóa bỏ hoàn toàn sở hữu tư nhân độc quyền",
+            "Sự chuyển hóa hoàn toàn sang chủ nghĩa xã hội"
+        ],
+        "ans": "A"
+    },
+    {
+        "id": 190,
+        "q": "[Câu 190] Cơ chế điều tiết kinh tế của chủ nghĩa tư bản độc quyền nhà nước là sự kết hợp giữa:",
+        "arr": [
+            "Cơ chế thị trường và sự can thiệp của nhà nước",
+            "Quy luật tự nhiên và quy luật xã hội",
+            "Kế hoạch hóa tập trung và mệnh lệnh hành chính",
+            "Độc quyền tư nhân và tự do cạnh tranh tuyệt đối"
+        ],
+        "ans": "A"
+    },
+    {
+        "id": 191,
+        "q": "[Câu 191] Hàng hóa là gì?",
+        "arr": [
+            "Sản phẩm của lao động nhằm thỏa mãn nhu cầu con người thông qua mua bán",
+            "Sản phẩm của lao động dùng cho người sản xuất tiêu dùng",
+            "Sản phẩm của tự nhiên phục vụ con người",
+            "Bất kỳ vật gì có ích cho đời sống"
+        ],
+        "ans": "A"
+    },
+    {
+        "id": 192,
+        "q": "[Câu 192] Hai thuộc tính của hàng hóa là gì?",
+        "arr": [
+            "Giá trị sử dụng và giá trị trao đổi",
+            "Giá trị sử dụng và giá trị",
+            "Giá trị và giá trị trao đổi",
+            "Giá trị trao đổi và tiền tệ"
+        ],
+        "ans": "B"
+    },
+    {
+        "id": 193,
+        "q": "[Câu 193] Lao động cụ thể là gì?",
+        "arr": [
+            "Lao động tạo ra giá trị của hàng hóa",
+            "Lao động có ích dưới một hình thức cụ thể của một nghề nghiệp chuyên môn nhất định",
+            "Lao động hao phí cơ bắp và thần kinh nói chung của con người",
+            "Lao động của người thợ thủ công xưa"
+        ],
+        "ans": "B"
+    },
+    {
+        "id": 194,
+        "q": "[Câu 194] Lao động trừu tượng tạo ra thuộc tính nào của hàng hóa?",
+        "arr": [
+            "Giá trị sử dụng",
+            "Giá trị trao đổi",
+            "Giá trị hàng hóa",
+            "Giá trị thặng dư"
+        ],
+        "ans": "C"
+    },
+    {
+        "id": 195,
+        "q": "[Câu 195] Lượng giá trị của hàng hóa được đo lường bằng gì?",
+        "arr": [
+            "Thời gian lao động cá biệt",
+            "Thời gian lao động xã hội cần thiết",
+            "Chi phí sản xuất bằng tiền",
+            "Mức độ khan hiếm trên thị trường"
+        ],
+        "ans": "B"
+    },
+    {
+        "id": 196,
+        "q": "[Câu 196] Khi năng suất lao động tăng lên thì:",
+        "arr": [
+            "Lượng giá trị của một đơn vị hàng hóa giảm xuống",
+            "Lượng giá trị của một đơn vị hàng hóa tăng lên",
+            "Tổng giá trị hàng hóa tăng lên",
+            "Lượng giá trị của một đơn vị hàng hóa không đổi"
+        ],
+        "ans": "A"
+    },
+    {
+        "id": 197,
+        "q": "[Câu 197] Khi cường độ lao động tăng lên thì:",
+        "arr": [
+            "Lượng giá trị của một đơn vị hàng hóa giảm xuống",
+            "Lượng giá trị của một đơn vị hàng hóa tăng lên",
+            "Tổng giá trị hàng hóa tăng lên nhưng lượng giá trị 1 đơn vị không đổi",
+            "Tổng giá trị hàng hóa giảm"
+        ],
+        "ans": "C"
+    },
+    {
+        "id": 198,
+        "q": "[Câu 198] Tiền tệ có mấy chức năng cơ bản theo lý luận của C.Mác?",
+        "arr": [
+            "3",
+            "4",
+            "5",
+            "6"
+        ],
+        "ans": "C"
+    },
+    {
+        "id": 199,
+        "q": "[Câu 199] Quy luật giá trị là quy luật kinh tế căn bản của:",
+        "arr": [
+            "Sản xuất tự cung tự cấp",
+            "Sản xuất hàng hóa",
+            "Chủ nghĩa tư bản",
+            "Chủ nghĩa xã hội"
+        ],
+        "ans": "B"
+    },
+    {
+        "id": 200,
+        "q": "[Câu 200] Nội dung cơ bản của quy luật giá trị là gì?",
+        "arr": [
+            "Sản xuất và trao đổi hàng hóa phải dựa trên cơ sở hao phí lao động xã hội cần thiết",
+            "Sản xuất hàng hóa càng nhiều càng tốt",
+            "Trao đổi hàng hóa phải theo giá cả thị trường tự do",
+            "Mua rẻ bán đắt"
+        ],
+        "ans": "A"
+    }
+]
