@@ -46,43 +46,24 @@
 </div>
 
 <script>
-    // Hàm tự động tìm tên file JSON bất kể trình duyệt dịch tự động sang tên gì
-    async function timFileJson() {
-        try {
-            const response = await fetch('./');
-            const text = await response.text();
-            
-            // Tìm tất cả các file có đuôi .json trong thư mục gốc
-            const match = text.match(/[a-zA-Z0-9_\-%À-ỹ\s]+\.json/g);
-            if (match && match.length > 0) {
-                // Trả về file đầu tiên tìm thấy
-                return decodeURIComponent(match[0]);
-            }
-        } catch (e) {
-            console.log("Không thể quét thư mục, thử dùng tên mặc định");
-        }
-        return 'tat_ca_cau_hoi.json'; 
-    }
-
-    const SO_CAU_MOI_DE = 20; 
+    // Đã sửa đường dẫn tìm trực tiếp file kế bên file index.html
+    const FILE_DATA_PATH = 'tat_ca_cau_hoi.json';
+    const SO_CAU_MOI_DE = 30; // Số câu bốc ngẫu nhiên mỗi lượt làm bài
+    
     let khoCauHoiGoc = [];
     let deHienTai = [];
 
     async function taiDuLieu() {
         const errorMsg = document.getElementById('error-msg');
         try {
-            // Tự động dò tìm file json của bạn trên repo (kể cả bị dịch thành hình xăm_ca_cau_hoi.json)
-            const targetFile = await timFileJson();
-            console.log("Đang đọc dữ liệu từ file:", targetFile);
-            
-            const response = await fetch(targetFile);
-            if (!response.ok) throw new Error("Không thể đọc được nội dung file dữ liệu.");
+            const response = await fetch(FILE_DATA_PATH);
+            if (!response.ok) throw new Error("Không thể kết nối đến file dữ liệu JSON.");
             khoCauHoiGoc = await response.json();
             tronVaTaoDe();
         } catch (error) {
             errorMsg.style.display = 'block';
-            errorMsg.innerHTML = `Lỗi hệ thống: Không tìm thấy hoặc không đọc được file dữ liệu câu hỏi JSON.<br><br>` +
-                                 `<b>Mẹo sửa lỗi:</b> Đảm bảo bạn đã đưa file câu hỏi ra ngoài thư mục gốc (nằm cùng hàng với file index.html này) và file phải có nội dung định dạng dạng JSON chuẩn.`;
+            errorMsg.innerHTML = `Lỗi hệ thống: Không đọc được tệp tat_ca_cau_hoi.json.<br><br>` +
+                                 `<b>Mẹo sửa lỗi:</b> Đảm bảo file câu hỏi nằm cùng một thư mục và nội dung bên trong là chuẩn cấu trúc dữ liệu JSON.`;
             document.getElementById('quiz-info').innerText = "Tải dữ liệu thất bại";
         }
     }
@@ -92,7 +73,7 @@
         document.getElementById('result').style.display = 'none';
         const danhSachTron = [...khoCauHoiGoc].sort(() => 0.5 - Math.random());
         deHienTai = danhSachTron.slice(0, Math.min(SO_CAU_MOI_DE, danhSachTron.length));
-        document.getElementById('quiz-info').innerText = `Đang hiển thị ${deHienTai.length} câu ngẫu nhiên từ kho câu hỏi`;
+        document.getElementById('quiz-info').innerText = `Đang hiển thị ${deHienTai.length} câu ngẫu nhiên từ kho 200 câu`;
         hienThiGiaoDien();
     }
 
