@@ -1391,17 +1391,7 @@
         "answer": "Là cơ sở thúc đẩy sự phát triển các lợi ích khác",
         "answer_index": "B"
     },
-    {
-        "id": 117,
-        "question": "Vai trò của cách mạng công nghiệp đối với phát triển kinh tế - xã hội là gì?",
-        "options": [
-            "Thúc đẩy lực lượng sản xuất; thúc đẩy hoàn thiện quan hệ sản xuất; thúc đẩy đổi mới phương thức quản trị phát triển",
-            "Thúc đẩy lực lượng sản xuất; thúc đẩy kinh tế đối ngoại phát triển"
-        ],
-        "answer": "Thúc đẩy lực lượng sản xuất; thúc đẩy hoàn thiện quan hệ sản xuất; thúc đẩy đổi mới phương thức quản trị phát triển",
-        "answer_index": "A"
-    },
-    [
+  
     {
         "id": 117,
         "question": "Vai trò của cách mạng công nghiệp đối với phát triển kinh tế - xã hội là gì?",
@@ -2360,8 +2350,8 @@
         ],
         "answer": "Tăng trưởng kinh tế gắn với mở rộng phúc lợi, an sinh xã hội",
         "answer_index": "A"
-    }
-]
+    },
+
     {
         "id": 197,
         "question": "Nhiệm vụ quan trọng nhất để hoàn thiện thể chế kinh tế thị trường định hướng xã hội chủ nghĩa là gì?",
