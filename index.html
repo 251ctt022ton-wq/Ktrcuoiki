@@ -3,129 +3,242 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Hệ Thống Ôn Thi Trắc Nghiệm Kinh Tế Chính Trị</title>
+    <title>Trắc Nghiệm Kinh Tế Chính Trị</title>
     <style>
-        body { font-family: Arial, sans-serif; background-color: #f4f7f6; margin: 0; padding: 20px; color: #333; }
-        .container { max-width: 800px; margin: 0 auto; background: white; padding: 30px; border-radius: 8px; box-shadow: 0 4px 15px rgba(0,0,0,0.1); }
-        h1 { text-align: center; color: #2c3e50; margin-bottom: 5px; }
-        .subtitle { text-align: center; color: #7f8c8d; font-size: 14px; margin-bottom: 25px; }
-        .controls { display: flex; justify-content: space-between; align-items: center; margin-bottom: 20px; background: #eef2f3; padding: 15px; border-radius: 6px; }
-        .quiz-info { font-weight: bold; color: #2c3e50; }
-        button { padding: 10px 20px; font-size: 15px; border-radius: 5px; border: none; cursor: pointer; transition: 0.3s; font-weight: bold; }
-        .btn-refresh { background-color: #3498db; color: white; }
-        .btn-refresh:hover { background-color: #2980b9; }
-        .submit-btn { background-color: #2ecc71; width: 100%; margin-top: 20px; padding: 15px; font-size: 18px; color: white; border-radius: 5px; font-weight: bold; }
-        .submit-btn:hover { background-color: #27ae60; }
-        .quiz-item { margin-bottom: 25px; padding-bottom: 15px; border-bottom: 1px solid #eee; }
-        .question { font-weight: bold; font-size: 17px; margin-bottom: 10px; color: #2c3e50; line-height: 1.4; }
-        .options label { display: block; background: #f9f9f9; padding: 12px; margin: 6px 0; border: 1px solid #ddd; border-radius: 4px; cursor: pointer; transition: 0.2s; }
-        .options label:hover { background: #eef7fc; border-color: #3498db; }
-        .options input { margin-right: 10px; transform: scale(1.2); vertical-align: middle; }
-        #result { margin-top: 20px; padding: 20px; border-radius: 5px; text-align: center; font-size: 20px; font-weight: bold; display: none; }
-        .correct-ans { background-color: #d4edda !important; color: #155724; border-color: #c3e6cb !important; font-weight: bold; }
-        .wrong-ans { background-color: #f8d7da !important; color: #721c24; border-color: #f5c6cb !important; }
-        #error-msg { color: red; text-align: center; font-weight: bold; padding: 20px; display: none; line-height: 1.6; }
+        :root {
+            --primary-color: #2c3e50;
+            --secondary-color: #3498db;
+            --bg-color: #f8f9fa;
+            --card-bg: #ffffff;
+            --text-color: #333333;
+        }
+
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background-color: var(--bg-color);
+            color: var(--text-color);
+            line-height: 1.6;
+            margin: 0;
+            padding: 20px;
+        }
+
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            background: var(--card-bg);
+            padding: 30px;
+            border-radius: 8px;
+            box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+        }
+
+        h1 {
+            text-align: center;
+            color: var(--primary-color);
+            margin-bottom: 30px;
+        }
+
+        .loading {
+            text-align: center;
+            font-size: 1.2rem;
+            color: #7f8c8d;
+        }
+
+        .quiz-item {
+            margin-bottom: 25px;
+            padding-bottom: 20px;
+            border-bottom: 1px solid #e2e8f0;
+        }
+
+        .question {
+            font-weight: 600;
+            font-size: 1.1rem;
+            margin-bottom: 12px;
+            color: var(--primary-color);
+        }
+
+        .options-list {
+            list-style-type: none;
+            padding: 0;
+            margin: 0;
+        }
+
+        .option-item {
+            margin-bottom: 8px;
+        }
+
+        label {
+            display: flex;
+            align-items: center;
+            padding: 10px 15px;
+            background: #f1f5f9;
+            border: 1px solid #cbd5e1;
+            border-radius: 6px;
+            cursor: pointer;
+            transition: all 0.2s;
+        }
+
+        label:hover {
+            background: #e2e8f0;
+        }
+
+        input[type="radio"] {
+            margin-right: 12px;
+            transform: scale(1.2);
+        }
+
+        /* Thống kê kết quả */
+        .result-box {
+            display: none;
+            background: #d1e7dd;
+            color: #0f5132;
+            padding: 20px;
+            border-radius: 6px;
+            margin-bottom: 20px;
+            text-align: center;
+            font-size: 1.3rem;
+            font-weight: bold;
+        }
+
+        button {
+            display: block;
+            width: 100%;
+            padding: 15px;
+            background: var(--secondary-color);
+            color: white;
+            border: none;
+            border-radius: 6px;
+            font-size: 1.1rem;
+            font-weight: bold;
+            cursor: pointer;
+            transition: background 0.2s;
+        }
+
+        button:hover {
+            background: #2980b9;
+        }
+
+        /* Trạng thái đáp án đúng/sai sau khi nộp bài */
+        .correct {
+            background-color: #d1e7dd !important;
+            border-color: #a3cfbb !important;
+            color: #0f5132;
+        }
+
+        .incorrect {
+            background-color: #f8d7da !important;
+            border-color: #f5c2c7 !important;
+            color: #842029;
+        }
     </style>
 </head>
 <body>
 
 <div class="container">
-    <h1>Hệ Thống Ôn Thi Trắc Nghiệm</h1>
-    <div class="subtitle">Ngân Hàng Trọn Bộ 200 Câu Hỏi Kinh Tế Chính Trị</div>
-    
-    <div class="controls">
-        <span id="quiz-info" class="quiz-info">Đang tải câu hỏi...</span>
-        <button class="btn-refresh" onclick="tronVaTaoDe()">Đổi Đề Ngẫu Nhiên</button>
-    </div>
-
-    <div id="error-msg"></div>
-    <div id="quiz-box"></div>
-
-    <button class="submit-btn" onclick="chamDiem()">Nộp Bài & Xem Đáp Án</button>
-    <div id="result"></div>
+    <h1>Bài Tập Trắc Nghiệm Kinh Tế Chính Trị</h1>
+    <div id="result" class="result-box"></div>
+    <div id="quiz-container" class="loading">Đang tải câu hỏi từ hệ thống...</div>
+    <button id="submit-btn" style="display: none;" onclick="chamDiem()">Nộp Bài / Xem Kết Quả</button>
 </div>
 
 <script>
-    // Đã sửa đường dẫn tìm trực tiếp file kế bên file index.html
-    const FILE_DATA_PATH = '200_cau_hoi_kinh_te_chinh_tri.json';
-    const SO_CAU_MOI_DE = 25; // Số câu bốc ngẫu nhiên mỗi lượt làm bài
-    
-    let khoCauHoiGoc = [];
-    let deHienTai = [];
+    let dataQuestions = [];
+    // Đường dẫn trỏ tới file json nằm cùng thư mục trên GitHub
+    const jsonUrl = './200_cau_hoi_kinh_te_chinh_tri.json'; 
 
-    async function taiDuLieu() {
-        const errorMsg = document.getElementById('error-msg');
+    // Hàm tự động fetch dữ liệu khi mở trang web
+    async function loadQuestions() {
+        const container = document.getElementById('quiz-container');
         try {
-            const response = await fetch(FILE_DATA_PATH);
-            if (!response.ok) throw new Error("Không thể kết nối đến file dữ liệu JSON.");
-            khoCauHoiGoc = await response.json();
-            tronVaTaoDe();
+            const response = await fetch(jsonUrl);
+            if (!response.ok) {
+                throw new Error('Không thể tải tệp dữ liệu JSON');
+            }
+            dataQuestions = await response.json();
+            
+            // Xóa dòng thông báo Đang tải...
+            container.innerHTML = '';
+            
+            // Render từng câu hỏi ra giao diện
+            dataQuestions.forEach((item, index) => {
+                const quizItem = document.createElement('div');
+                quizItem.className = 'quiz-item';
+                quizItem.id = `question-box-${index}`;
+
+                // Mảng ký tự nhận diện phương án đầu dòng
+                const labelAlpha = ['A', 'B', 'C', 'D'];
+
+                let optionsHtml = '';
+                item.options.forEach((opt, optIdx) => {
+                    optionsHtml += `
+                        <li class="option-item">
+                            <label id="label-${index}-${optIdx}">
+                                <input type="radio" name="question-${index}" value="${optIdx}">
+                                <span><strong>${labelAlpha[optIdx]}.</strong> ${opt}</span>
+                            </label>
+                        </li>
+                    `;
+                });
+
+                quizItem.innerHTML = `
+                    <div class="question">Câu ${item.id}: ${item.question}</div>
+                    <ul class="options-list">${optionsHtml}</ul>
+                `;
+                container.appendChild(quizItem);
+            });
+
+            // Hiện nút nộp bài
+            document.getElementById('submit-btn').style.display = 'block';
+
         } catch (error) {
-            errorMsg.style.display = 'block';
-            errorMsg.innerHTML = `Lỗi hệ thống: Không đọc được tệp tat_ca_cau_hoi.json.<br><br>` +
-                                 `<b>Mẹo sửa lỗi:</b> Đảm bảo file câu hỏi nằm cùng một thư mục và nội dung bên trong là chuẩn cấu trúc dữ liệu JSON.`;
-            document.getElementById('quiz-info').innerText = "Tải dữ liệu thất bại";
+            console.error(error);
+            container.innerHTML = `<div style="color:red; text-align:center;">Lỗi: Không thể nạp danh sách câu hỏi. Hãy chắc chắn tên file JSON của bạn chính xác!</div>`;
         }
     }
 
-    function tronVaTaoDe() {
-        if (khoCauHoiGoc.length === 0) return;
-        document.getElementById('result').style.display = 'none';
-        const danhSachTron = [...khoCauHoiGoc].sort(() => 0.5 - Math.random());
-        deHienTai = danhSachTron.slice(0, Math.min(SO_CAU_MOI_DE, danhSachTron.length));
-        document.getElementById('quiz-info').innerText = `Đang hiển thị ${deHienTai.length} câu ngẫu nhiên từ kho 200 câu`;
-        hienThiGiaoDien();
-    }
-
-    function hienThiGiaoDien() {
-        const quizBox = document.getElementById('quiz-box');
-        quizBox.innerHTML = '';
-        deHienTai.forEach((item, index) => {
-            let htmlOptions = '';
-            const labels = ['A', 'B', 'C', 'D'];
-            item.arr.forEach((opt, idx) => {
-                htmlOptions += `
-                    <label id="lbl-${index}-${labels[idx]}">
-                        <input type="radio" name="question-${index}" value="${labels[idx]}">
-                        <b>${labels[idx]}.</b> ${opt}
-                    </label>
-                `;
-            });
-            quizBox.innerHTML += `
-                <div class="quiz-item">
-                    <div class="question">Câu ${index + 1}: ${item.q}</div>
-                    <div class="options">${htmlOptions}</div>
-                </div>
-            `;
-        });
-    }
-
+    // Hàm tính điểm và hiển thị đáp án đúng/sai
     function chamDiem() {
-        let diemSo = 0;
-        deHienTai.forEach((item, index) => {
-            const selected = document.querySelector(`input[name="question-${index}"]:checked`);
-            const labelDung = document.getElementById(`lbl-${index}-${item.ans}`);
-            if(labelDung) labelDung.classList.add('correct-ans');
-            if (selected) {
-                if (selected.value === item.ans) {
-                    diemSo++;
+        let score = 0;
+        const total = dataQuestions.length;
+
+        dataQuestions.forEach((item, index) => {
+            const selectedInput = document.querySelector(`input[name="question-${index}"]:checked`);
+            
+            // Tìm vị trí của đáp án đúng trong mảng options
+            // Chuyển ký tự (A, B, C, D) từ 'answer_index' thành chỉ số số (0, 1, 2, 3)
+            const mapAlpha = {'A': 0, 'B': 1, 'C': 2, 'D': 3};
+            const correctIndex = mapAlpha[item.answer_index.toUpperCase().trim()];
+
+            // Reset màu toàn bộ các nhãn của câu này trước khi chấm lại
+            item.options.forEach((_, optIdx) => {
+                document.getElementById(`label-${index}-${optIdx}`).className = '';
+            });
+
+            // Tô màu xanh lá cây đậm cho đáp án đúng chuẩn của hệ thống
+            document.getElementById(`label-${index}-${correctIndex}`).classList.add('correct');
+
+            if (selectedInput) {
+                const userAnswerIndex = parseInt(selectedInput.value);
+                if (userAnswerIndex === correctIndex) {
+                    score++;
                 } else {
-                    const labelSai = document.getElementById(`lbl-${index}-${selected.value}`);
-                    if(labelSai) labelSai.classList.add('wrong-ans');
+                    // Nếu làm sai, tô màu đỏ nhãn người dùng đã chọn
+                    document.getElementById(`label-${index}-${userAnswerIndex}`).classList.add('incorrect');
                 }
             }
         });
-        const resultDiv = document.getElementById('result');
-        resultDiv.style.display = 'block';
-        resultDiv.innerText = `Bạn đạt được: ${diemSo} / ${deHienTai.length} câu đúng!`;
-        if (diemSo === deHienTai.length) {
-            resultDiv.style.backgroundColor = '#d4edda'; resultDiv.style.color = '#155724';
-        } else {
-            resultDiv.style.backgroundColor = '#ffeeba'; resultDiv.style.color = '#856404';
-        }
-        window.scrollTo({ top: document.body.scrollHeight, behavior: 'smooth' });
+
+        // Hiển thị khung kết quả lên đầu trang
+        const resultBox = document.getElementById('result');
+        resultBox.style.display = 'block';
+        resultBox.innerHTML = `Kết quả của bạn: ${score} / ${total} câu đúng (${((score/total)*100).toFixed(2)}%)`;
+        
+        // Cuộn màn hình mượt mà lên vị trí kết quả quả
+        window.scrollTo({ top: 0, behavior: 'smooth' });
     }
-    taiDuLieu();
+
+    // Chạy tải dữ liệu ngay khi tải xong trang cấu trúc DOM
+    document.addEventListener('DOMContentLoaded', loadQuestions);
 </script>
+
 </body>
 </html>
